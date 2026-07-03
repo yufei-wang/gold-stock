@@ -1,0 +1,25 @@
+# 金股数据（Excel源文件不上传）
+../*.xlsx
+*.xlsx
+
+# 中间文件
+_headers.json
+_stocks_to_fetch.json
+_batch_codes.json
+_merge_new_prices.py
+raw_prices.json
+prices_raw.json
+PRICES_SCHEMA.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
