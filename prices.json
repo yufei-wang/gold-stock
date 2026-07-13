@@ -1851,5 +1851,811 @@
       "20260702": 633.5,
       "20260706": 579.5
     }
+  },
+  "000100.SZ": {
+    "name": "TCL科技",
+    "base_price": 6.12,
+    "latest_price": 5.12,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -16.34
+  },
+  "000338.SZ": {
+    "name": "潍柴动力",
+    "base_price": 27.8,
+    "latest_price": 27.57,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -0.83
+  },
+  "000636.SZ": {
+    "name": "风华高科",
+    "base_price": 74.4,
+    "latest_price": 60.01,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -19.34
+  },
+  "000651.SZ": {
+    "name": "格力电器",
+    "base_price": 37.46,
+    "latest_price": 38.25,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": 2.11
+  },
+  "000725.SZ": {
+    "name": "京东方A",
+    "base_price": 8.77,
+    "latest_price": 7.59,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -13.45
+  },
+  "000733.SZ": {
+    "name": "振华科技",
+    "base_price": 62.3,
+    "latest_price": 47.14,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -24.33
+  },
+  "000776.SZ": {
+    "name": "广发证券",
+    "base_price": 24.86,
+    "latest_price": 21.75,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -12.51
+  },
+  "000960.SZ": {
+    "name": "锡业股份",
+    "base_price": 42.32,
+    "latest_price": 36.45,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -13.87
+  },
+  "000962.SZ": {
+    "name": "东方钽业",
+    "base_price": 86.31,
+    "latest_price": 65.02,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -24.67
+  },
+  "000975.SZ": {
+    "name": "山金国际",
+    "base_price": 16.78,
+    "latest_price": 20.03,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": 19.37
+  },
+  "000977.SZ": {
+    "name": "浪潮信息",
+    "base_price": 67.26,
+    "latest_price": 89.52,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": 33.1
+  },
+  "002008.SZ": {
+    "name": "大族激光",
+    "base_price": 137.98,
+    "latest_price": 130.3,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -5.57
+  },
+  "002025.SZ": {
+    "name": "航天电器",
+    "base_price": 80.2,
+    "latest_price": 79.29,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -1.13
+  },
+  "002281.SZ": {
+    "name": "光迅科技",
+    "base_price": 242.43,
+    "latest_price": 233.45,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -3.7
+  },
+  "002353.SZ": {
+    "name": "杰瑞股份",
+    "base_price": 154.64,
+    "latest_price": 151.2,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -2.22
+  },
+  "002371.SZ": {
+    "name": "北方华创",
+    "base_price": 935.36,
+    "latest_price": 801.0,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -14.36
+  },
+  "002384.SZ": {
+    "name": "东山精密",
+    "base_price": 246.31,
+    "latest_price": 242.3,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -1.63
+  },
+  "002409.SZ": {
+    "name": "雅克科技",
+    "base_price": 236.09,
+    "latest_price": 207.17,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -12.25
+  },
+  "002428.SZ": {
+    "name": "云南锗业",
+    "base_price": 114.85,
+    "latest_price": 100.26,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -12.7
+  },
+  "002444.SZ": {
+    "name": "巨星科技",
+    "base_price": 30.51,
+    "latest_price": 29.88,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -2.06
+  },
+  "002475.SZ": {
+    "name": "立讯精密",
+    "base_price": 66.24,
+    "latest_price": 62.14,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -6.19
+  },
+  "002484.SZ": {
+    "name": "江海股份",
+    "base_price": 106.66,
+    "latest_price": 86.7,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -18.71
+  },
+  "002812.SZ": {
+    "name": "恩捷股份",
+    "base_price": 65.44,
+    "latest_price": 54.8,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -16.26
+  },
+  "002821.SZ": {
+    "name": "凯莱英",
+    "base_price": 164.8,
+    "latest_price": 165.41,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": 0.37
+  },
+  "002831.SZ": {
+    "name": "裕同科技",
+    "base_price": 35.31,
+    "latest_price": 28.93,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -18.07
+  },
+  "002859.SZ": {
+    "name": "洁美科技",
+    "base_price": 109.9,
+    "latest_price": 78.4,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -28.66
+  },
+  "002938.SZ": {
+    "name": "鹏鼎控股",
+    "base_price": 102.4,
+    "latest_price": 98.47,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -3.84
+  },
+  "300136.SZ": {
+    "name": "信维通信",
+    "base_price": 112.16,
+    "latest_price": 99.38,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -11.39
+  },
+  "300137.SZ": {
+    "name": "先河环保",
+    "base_price": 17.7,
+    "latest_price": 17.05,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -3.67
+  },
+  "300274.SZ": {
+    "name": "阳光电源",
+    "base_price": 136.92,
+    "latest_price": 114.79,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -16.16
+  },
+  "300308.SZ": {
+    "name": "中际旭创",
+    "base_price": 1223.17,
+    "latest_price": 1093.98,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -10.56
+  },
+  "300382.SZ": {
+    "name": "斯莱克",
+    "base_price": 23.08,
+    "latest_price": 19.92,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -13.69
+  },
+  "300487.SZ": {
+    "name": "蓝晓科技",
+    "base_price": 70.62,
+    "latest_price": 80.89,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": 14.54
+  },
+  "300502.SZ": {
+    "name": "新易盛",
+    "base_price": 575.56,
+    "latest_price": 523.05,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -9.12
+  },
+  "300567.SZ": {
+    "name": "精测电子",
+    "base_price": 303.62,
+    "latest_price": 297.1,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -2.15
+  },
+  "300568.SZ": {
+    "name": "星源材质",
+    "base_price": 19.66,
+    "latest_price": 17.57,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -10.63
+  },
+  "300593.SZ": {
+    "name": "新雷能",
+    "base_price": 27.96,
+    "latest_price": 27.37,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -2.11
+  },
+  "300604.SZ": {
+    "name": "长川科技",
+    "base_price": 333.67,
+    "latest_price": 352.31,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": 5.59
+  },
+  "300750.SZ": {
+    "name": "宁德时代",
+    "base_price": 383.84,
+    "latest_price": 348.76,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -9.14
+  },
+  "300751.SZ": {
+    "name": "迈为股份",
+    "base_price": 306.5,
+    "latest_price": 267.0,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -12.89
+  },
+  "301095.SZ": {
+    "name": "广立微",
+    "base_price": 123.21,
+    "latest_price": 104.43,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -15.24
+  },
+  "301127.SZ": {
+    "name": "武汉天源",
+    "base_price": 20.83,
+    "latest_price": 18.01,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -13.54
+  },
+  "301165.SZ": {
+    "name": "锐捷网络",
+    "base_price": 85.92,
+    "latest_price": 103.61,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": 20.59
+  },
+  "301232.SZ": {
+    "name": "飞沃科技",
+    "base_price": 161.5,
+    "latest_price": 179.2,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": 10.96
+  },
+  "301285.SZ": {
+    "name": "鸿日达",
+    "base_price": 113.02,
+    "latest_price": 103.0,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -8.87
+  },
+  "301291.SZ": {
+    "name": "明阳电气",
+    "base_price": 35.39,
+    "latest_price": 36.98,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": 4.49
+  },
+  "600011.SH": {
+    "name": "华能国际",
+    "base_price": 7.59,
+    "latest_price": 6.84,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -9.88
+  },
+  "600026.SH": {
+    "name": "中远海能",
+    "base_price": 16.7,
+    "latest_price": 15.77,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -5.57
+  },
+  "600030.SH": {
+    "name": "中信证券",
+    "base_price": 29.47,
+    "latest_price": 28.4,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -3.63
+  },
+  "600160.SH": {
+    "name": "巨化股份",
+    "base_price": 55.85,
+    "latest_price": 43.42,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -22.26
+  },
+  "600176.SH": {
+    "name": "中国巨石",
+    "base_price": 70.27,
+    "latest_price": 55.7,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -20.73
+  },
+  "600183.SH": {
+    "name": "生益科技",
+    "base_price": 164.8,
+    "latest_price": 149.39,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -9.35
+  },
+  "600246.SH": {
+    "name": "万通发展",
+    "base_price": 17.81,
+    "latest_price": 19.8,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": 11.17
+  },
+  "600276.SH": {
+    "name": "恒瑞医药",
+    "base_price": 53.78,
+    "latest_price": 55.75,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": 3.66
+  },
+  "600460.SH": {
+    "name": "士兰微",
+    "base_price": 53.15,
+    "latest_price": 44.51,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -16.26
+  },
+  "600482.SH": {
+    "name": "中国动力",
+    "base_price": 33.08,
+    "latest_price": 33.05,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -0.09
+  },
+  "600516.SH": {
+    "name": "方大炭素",
+    "base_price": 6.08,
+    "latest_price": 5.15,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -15.3
+  },
+  "600879.SH": {
+    "name": "航天电子",
+    "base_price": 21.45,
+    "latest_price": 23.29,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": 8.58
+  },
+  "600919.SH": {
+    "name": "江苏银行",
+    "base_price": 11.0,
+    "latest_price": 11.08,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": 0.73
+  },
+  "600961.SH": {
+    "name": "株冶集团",
+    "base_price": 35.3,
+    "latest_price": 26.52,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -24.87
+  },
+  "600985.SH": {
+    "name": "淮北矿业",
+    "base_price": 14.61,
+    "latest_price": 13.97,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -4.38
+  },
+  "601021.SH": {
+    "name": "春秋航空",
+    "base_price": 47.22,
+    "latest_price": 46.03,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -2.52
+  },
+  "601108.SH": {
+    "name": "财通证券",
+    "base_price": 9.21,
+    "latest_price": 8.53,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -7.38
+  },
+  "601126.SH": {
+    "name": "四方股份",
+    "base_price": 58.58,
+    "latest_price": 54.55,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -6.88
+  },
+  "601168.SH": {
+    "name": "西部矿业",
+    "base_price": 26.51,
+    "latest_price": 30.44,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": 14.82
+  },
+  "601233.SH": {
+    "name": "桐昆股份",
+    "base_price": 23.15,
+    "latest_price": 20.66,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -10.76
+  },
+  "601699.SH": {
+    "name": "潞安环能",
+    "base_price": 14.42,
+    "latest_price": 14.83,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": 2.84
+  },
+  "601899.SH": {
+    "name": "紫金矿业",
+    "base_price": 25.11,
+    "latest_price": 27.72,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": 10.39
+  },
+  "603067.SH": {
+    "name": "振华股份",
+    "base_price": 49.5,
+    "latest_price": 40.26,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -18.67
+  },
+  "603083.SH": {
+    "name": "剑桥科技",
+    "base_price": 242.7,
+    "latest_price": 199.09,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -17.97
+  },
+  "603259.SH": {
+    "name": "药明康德",
+    "base_price": 125.2,
+    "latest_price": 123.3,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -1.52
+  },
+  "603324.SH": {
+    "name": "盛剑科技",
+    "base_price": 55.3,
+    "latest_price": 40.75,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -26.31
+  },
+  "603588.SH": {
+    "name": "高能环境",
+    "base_price": 19.65,
+    "latest_price": 14.81,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -24.63
+  },
+  "603733.SH": {
+    "name": "仙鹤股份",
+    "base_price": 28.45,
+    "latest_price": 21.37,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -24.89
+  },
+  "603806.SH": {
+    "name": "福斯特",
+    "base_price": 16.43,
+    "latest_price": 14.24,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -13.33
+  },
+  "603986.SH": {
+    "name": "兆易创新",
+    "base_price": 772.01,
+    "latest_price": 612.0,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -20.73
+  },
+  "603993.SH": {
+    "name": "洛阳钼业",
+    "base_price": 17.73,
+    "latest_price": 17.5,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -1.3
+  },
+  "605016.SH": {
+    "name": "百龙创园",
+    "base_price": 26.0,
+    "latest_price": 23.02,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -11.46
+  },
+  "605020.SH": {
+    "name": "永和股份",
+    "base_price": 43.99,
+    "latest_price": 35.37,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -19.6
+  },
+  "605117.SH": {
+    "name": "德业股份",
+    "base_price": 101.5,
+    "latest_price": 84.0,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -17.24
+  },
+  "688008.SH": {
+    "name": "澜起科技",
+    "base_price": 315.89,
+    "latest_price": 268.06,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -15.14
+  },
+  "688012.SH": {
+    "name": "中微公司",
+    "base_price": 462.0,
+    "latest_price": 434.51,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -5.95
+  },
+  "688025.SH": {
+    "name": "杰普特",
+    "base_price": 433.0,
+    "latest_price": 414.02,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -4.38
+  },
+  "688030.SH": {
+    "name": "山石网科",
+    "base_price": 16.2,
+    "latest_price": 15.21,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -6.11
+  },
+  "688072.SH": {
+    "name": "拓荆科技",
+    "base_price": 832.0,
+    "latest_price": 832.0,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": 0.0
+  },
+  "688141.SH": {
+    "name": "杰华特",
+    "base_price": 148.54,
+    "latest_price": 152.65,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": 2.77
+  },
+  "688220.SH": {
+    "name": "翱捷科技",
+    "base_price": 120.0,
+    "latest_price": 118.26,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -1.45
+  },
+  "688297.SH": {
+    "name": "中无人机",
+    "base_price": 42.48,
+    "latest_price": 42.08,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -0.94
+  },
+  "688347.SH": {
+    "name": "华虹宏力",
+    "base_price": 315.61,
+    "latest_price": 369.87,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": 17.19
+  },
+  "688378.SH": {
+    "name": "奥来德",
+    "base_price": 59.76,
+    "latest_price": 51.24,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -14.26
+  },
+  "688383.SH": {
+    "name": "新益昌",
+    "base_price": 184.28,
+    "latest_price": 153.35,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -16.78
+  },
+  "688530.SH": {
+    "name": "欧莱新材",
+    "base_price": 88.08,
+    "latest_price": 76.7,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -12.92
+  },
+  "688531.SH": {
+    "name": "日联科技",
+    "base_price": 171.11,
+    "latest_price": 178.86,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": 4.53
+  },
+  "688629.SH": {
+    "name": "华丰科技",
+    "base_price": 180.55,
+    "latest_price": 202.0,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": 11.88
+  },
+  "688630.SH": {
+    "name": "芯碁微装",
+    "base_price": 497.27,
+    "latest_price": 465.02,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -6.49
+  },
+  "688692.SH": {
+    "name": "达梦数据",
+    "base_price": 246.06,
+    "latest_price": 242.27,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -1.54
+  },
+  "688702.SH": {
+    "name": "盛科通信",
+    "base_price": 380.52,
+    "latest_price": 378.68,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -0.48
+  },
+  "688818.SH": {
+    "name": "电科蓝天",
+    "base_price": 73.18,
+    "latest_price": 78.3,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": 7.0
+  },
+  "688981.SH": {
+    "name": "中芯国际",
+    "base_price": 154.48,
+    "latest_price": 163.02,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": 5.53
+  },
+  "920045.BJ": {
+    "name": "蘅东光",
+    "base_price": 593.0,
+    "latest_price": 379.78,
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "change_pct": -35.96
+  },
+  "_meta": {
+    "generated_at": "2026-07-13 13:37:31",
+    "base_date": "20260701",
+    "latest_date": "20260710",
+    "total_stocks": 100
   }
 }
