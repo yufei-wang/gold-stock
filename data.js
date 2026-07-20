@@ -1,5 +1,5 @@
 // 自动生成，请勿手动编辑
-// 生成时间: 2026-07-17 16:59:30
+// 生成时间: 2026-07-20 16:37:51
 const GOLD_STOCK_DATA = {
   "months": [
     "2026-03",
@@ -11137,7 +11137,7 @@ const GOLD_STOCK_DATA = {
     ]
   },
   "prices_meta": {
-    "generated_at": "2026-07-17 16:58:27",
-    "latest_date": "20260717"
+    "generated_at": "2026-07-20 16:36:56",
+    "latest_date": "20260718"
   }
 };
