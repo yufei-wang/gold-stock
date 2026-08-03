@@ -1,12 +1,13 @@
 // 自动生成，请勿手动编辑
-// 生成时间: 2026-08-03 09:13:59
+// 生成时间: 2026-08-03 13:33:55
 const GOLD_STOCK_DATA = {
   "months": [
     "2026-03",
     "2026-04",
     "2026-05",
     "2026-06",
-    "2026-07"
+    "2026-07",
+    "2026-08"
   ],
   "summary": {
     "2026-03": [
@@ -9574,11 +9575,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "华泰-方晏荷, 招商-李华丰, 光大-孙伟风, 东吴-东吴-黄诗涛, 银河-贾亚萌, 浙商-毕春晖",
         "change": "2",
         "reason": "粗纱风电长协温和提价，淮安10万吨/3.9亿米电子布一期新产能点火，26年电子布量价齐升，特种布中Low-CTE进展或快于市场预期。 | 电子布成为AIPCB的最紧缺“物料”，公司充分受益\n1、AI电子布是PCB产业链上最紧缺的“物料”。VR200的BOM清单显示PCB和ABF载板边际增幅显著，AI电子布因前端电子纱扩产周期较长以及核心进口设备织布机紧缺使得供需缺口将进一步扩大，预计产业有望把AI电子布当战略物料积极锁定产能。\n2、公司是行业龙头，一方面充分受益普通电子布的价格上涨，另一方面公司织布机在手数量充足且积极发展AI电子布有望成为新一轮需求扩容的最大受益者。\n❑风险提示：海外AI投资不及预期，国产织布机技术跃迁突破。 | 1、粗纱供需改善下价格温和上涨，且受益普通电子布提价\n2、特种布突破在即 | 电子布供需紧俏延续，公司电子布放量将贡献更多业绩增量 | 玻纤行业龙头，粗砂有序复价，电子布景气上行，公司5月继续规划扩产，量价齐升业绩有望持续超预期。\n一、超预期逻辑\n1、电子布：特种电子布的建设热潮一定程度上挤占了常规电子玻纤的供应，推动普通电子布供应趋紧，今年以来价格逐月提升。同时，公司低介电相关产品认证及送样正有序推进。\n2、粗纱：2025年9月起，行业积极推进复价，在反内卷的大背景下，传统粗纱价格有望企稳回升，其中高模/超高模玻纤、电子用玻纤等高端产品市占率提升有望拉动细分产品整体价格持续走高。",
-        "base_price": 70.27,
-        "latest_price": 37.84,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -46.15
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "通信",
@@ -9588,11 +9589,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "招商-罗嘉成, 国联民生-张宁, 银河-赵良毕",
         "change": "-1",
         "reason": "光模块龙头，物料准备充分，下游需求强劲，Scale up光互联也将带来新增量。1）下游需求持续提升及物料准备充分，硅光及1.6T光模块出货比例保持提升，为26全年交付做好充分准备，预计全年业绩增长强劲；2）英伟达、Google等27年光模块需求强劲，公司产能扩张速度领先同行，物料储备充分，有能力保障下游高增需求的产品交付，27年增长乐观，28年景气度可见延续；3）scale-up需求是scale-out的10倍，公司NPO产品进展顺利，有望在未来2-3年持续贡献业绩。\n❑ 风险提示：下游市场需求不及预期、高端产品价格不及预期、原材料价格波动的风险、市场竞争加剧、全球贸易摩擦加剧等。 | 巨化股份是国内氟化工龙头企业，制冷剂生产配额全球领先。制冷剂作为\"温控\"关键材料，需求持续扩张，看好中长期内全球制冷剂整体高景气有望延续。地缘形势缓和后，制冷剂出口有望较快修复。此外，公司含氟聚合物品种、产能国内领先，含氟精细化学品快速发展，有望受益于AI等新兴需求增长。超纯PFA是半导体湿法工艺、高纯试剂储运的核心材料，2026年5月公司超纯PFA实现万吨级自主量产，打破国外垄断，下游需求旺盛。 | 业绩持续增长，光模块龙头向平台型公司转型享受高溢价",
-        "base_price": 1223.17,
-        "latest_price": 902.01,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -26.26
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "机械设备",
@@ -9602,11 +9603,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国海-张钰莹, 招商-郭倩倩, 开源-周佳",
         "change": "2",
         "reason": "①细分业务全面增长，毛利率分化明。\n②射线源产业化提速，高端检测设备持续突破。\n③多场景X射线智能检测设备加速渗透，多领域出货验证稳步推进。\n④外延并购协同发力，多维度布局打开成长空间。\n⑤外延并购持续加码，拟收购上海菲莱拓宽检测版图。 | 工业X射线检测设备龙头，内生+外延打造检测平台。\n国内工业X射线检测设备龙头，凭借国内首款封闭式微焦点X射线源打破进口垄断。受益下游PCB、新能源高景气+设备高端化+国产替代，预计今年主业有望维持快速增长。\n同时，公司通过外延并购补全检测技术平台，包括超声波、可见光、激光红外等，提升单客户产品价值量+增强客户粘性。随着标的持续整合以及协同效应释放，有望持续为公司贡献增量收入，进一步打开成长空间。\n❑风险提示：下游资本开支不及预期，新产品、新客户拓展不及预期，并购整合不及预期，行业竞争加剧。 | 国内工业X射线检测龙头，正通过“内生+外延”打造全球检测龙头。内生方面，随着锂电需求复苏、电子半导体需求旺盛，公司2025年上半年新签订单同比增长近一倍；同时精度更高的纳米级开管射线源已实现批量生产与产业化应用，且获得半导体、集成电路等行业领域客户的高度认可。外延方面，公司2025年以来通过持续的收并购（1月投资收购创新电子，6月收购珠海九源，10月收购新加坡SSTI）已逐渐打造平台化能力，未来还将继续拓展重点在光学、超声、磁粉、涡流、能谱、中子、量子等其他检测技术，向工业检测平台化龙头进军。",
-        "base_price": 171.11,
-        "latest_price": 113.79,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -33.5
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "汽车",
@@ -9616,11 +9617,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国信-丁诗洁, 银河-石金漫",
         "change": "1",
         "reason": "公司自研往复式燃气发电机下半年开始进入交付阶段；柴油发电机年内预计环比提升，全年出货预计翻倍以上；AI基建趋势下，公司中长期逻辑坚挺，SOFC未来打开新增长空间，1年期看4000亿，短期回调迎来机会 | 受益AIDC发电设备需求爆发",
-        "base_price": 27.8,
-        "latest_price": 27.95,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": 0.54
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "非银金融",
@@ -9630,11 +9631,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国联民生-刘雨辰, 浙商-孙嘉赓",
         "change": "1",
         "reason": "截至2025年，公司连续4年蝉联中国液冷服务器市场第一。同时在超节点领域，公司凭借全栈解决方案和一体化交付能力，在头部厂商率先落地。作为全球CPU龙头英特尔/AMD在全球内的核心合作方，公司依靠供应能力和产品布局提升了在客户端的溢价能力。通过将资源向高毛利产品和订单倾斜等方式，2026Q2公司在利润率端的改善趋势有望延续。 | 公司是业务结构均衡、盈利能力优秀的大型综合类券商，财富管理布局领先，资管业务优势突出，投行业务逐渐回归正轨。当前公司估值仍处于历史较低区间，且低于券商板块平均水平，在头部券商中具备较强估值修复空间。\n市场层面，人民币资产重估、国内流动性宽松及资本市场活跃度提升，有望推动A股与港股走出中长周期Beta行情；政策层面，券商作为资本市场重要参与方，有望受益于行业创新政策红利；个股层面，广发证券若后续治理结构优化预期进一步强化，或将形成“市场Beta+治理Alpha”的共振催化，带动估值与业绩实现戴维斯双击。",
-        "base_price": 24.86,
-        "latest_price": 21.36,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -14.08
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "有色金属",
@@ -9644,11 +9645,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国君-李鹏飞, 国海-陈沁一",
         "change": "新增",
         "reason": "钽铌龙头受益AI行业需求高景气，产能释放有望增厚盈利 | ①项目建设提质加速，2025年利润率保持稳定。\n②钽铌主业经营稳健，汇率损益与投资收益扰动利润表现，2026Q1业绩短期承压。\n③库存规模提升明显，战略性补库彰显前瞻洞察。",
-        "base_price": 86.31,
-        "latest_price": 43.88,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -49.16
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "计算机",
@@ -9658,11 +9659,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国海-刘熹, 国联民生-吕伟",
         "change": "新增",
         "reason": "①2025年归母净利润24亿元，业绩符合我们预期。\n②现金流大幅改善，毛利率有望迎来修复。\n③公司是超节点OEM龙头，国内国际双轮驱动。 | 1) 安监加强背景下超产煤矿有望减量，供给刚性强；2) 日耗尚未达峰、上行空间大，煤价有望在雨季后进入上行通道；3) 公司现货煤比例高，业绩弹性大。",
-        "base_price": 67.26,
-        "latest_price": 71.81,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": 6.76
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "机械设备",
@@ -9672,11 +9673,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国信-唐旭霞, 光大-陈佳宁",
         "change": "0",
         "reason": "杰瑞股份作为油气装备/工程/服务一体化龙头，已形成压裂稳健、天然气高速增长及AI电力高爆发三线驱动格局，26-27年业绩增长有望大幅加速 | 1、北美数据中心建设带动燃气轮机需求提升\n2、公司近期接连斩获北美AI巨头超亿元燃气轮机发电机组订单，并与西门子、贝克休斯、川崎重工等海外燃气轮机制造商签订合作协议，锁定重要机头资源，未来电力板块有望为公司打造第三增长曲线",
-        "base_price": 154.64,
-        "latest_price": 134.7,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -12.89
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电子",
@@ -9686,11 +9687,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "东吴-东吴-周尔双, 浙商-厉秋迪",
         "change": "1",
         "reason": "1、高价值占比的前道晶圆设备国产化率正加速提升，华创作为核心设备供应商有望充分受益：前道晶圆设备占半导体设备总价值链超70%，涵盖光刻、刻蚀、薄膜沉积等关键环节，我们判断其国产化率将迅速提升。目前薄膜与刻蚀环节国产化率约25%–30%，预计短期内将突破50%；北方华创身为国产薄膜+刻蚀双龙头，最为受益。\n2、存储涨价&两大存储FAB加速新产能扩张和国产AI算力芯片进展顺利，设备订单有望超预期：1）长存三期于9月5日成立、7月7日国产DRAM内存龙头长鑫存储正式启动上市征程。寒武纪和海光最新财报当中的营业收入和出货量也侧面反应了中芯国际先进逻辑产能的良率正在提高。2）我们认为，国产半导体设备自身迎来历史性发展机遇，26年将会开启确定性强的扩产周期，设备全行业订单增速或超过30%，有望达到50%+。 | 一、超预期逻辑\n市场担忧：半导体设备行业毛利率下滑，市场竞争加剧，成长空间有限。\n我们认为:1、需求端：AI浪潮持续推进，本土算力/存力需求快速成长，有望推动晶圆厂扩产超预期。2、供给端：本土半导体设备企业已基本形成稳定格局，属于半导体产业链上话语权较强的细分赛道，中长期来看行业格局会继续向集中度提升的方向靠拢。\n二、催化剂\n晶圆厂扩产节奏超预期；公司盈利能力改善超预期；半导体设备国产化进程超预期；海外半导体管制政策收紧超预期等",
-        "base_price": 935.36,
-        "latest_price": 687.0,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -26.55
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "轻工",
@@ -9700,11 +9701,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "申万-屠亦婷, 浙商-史凡可",
         "change": "新增",
         "reason": "包装主业积累深厚客户资源、制造管理壁垒，推进1+N+T战略，切入大客户液冷等高成长赛道供应链，业绩和估值弹性充足 | 1）液冷业务潜力足：英伟达宣布Rubin AI基础设施已实现全系统100%液冷 ，裕同旗下华研MIM工艺优势突出，有望在液冷供应链零组件上扮演重要角色。\n2）AI眼镜等其他科技转型拉动：AI眼镜链条通过华研、仁禾、华宝利三个优质标的绑定核心品牌、逐步进入放量周期，此外布局碳纤维等新材料。\n3）包装主业出海：海外产能建设&收购节奏加快，带来更高的利润率和客户份额，确定性较强；此外重型包装与潮玩布局有望对冲26年3C周期。",
-        "base_price": 35.31,
-        "latest_price": 26.29,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -25.55
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电力设备",
@@ -9714,11 +9715,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "华泰-刘俊, 东吴-东吴-曾朵红",
         "change": "0",
         "reason": "核心逻辑：全球储能需求高增，公司储能+出海逻辑延续，2026年储能出货60GWh，同比+50%，海外占比70%+，AIDC配储打开额外需求空间，27年有望进一步提升至90GWh。公司一季度储能毛利率已回升至30%（v.s. 4Q25 24%），伴随上游原材料价格回落有望维持毛利，我们较市场更乐观预计2季度业绩可能实现30-35亿利润。公司SST将于2026年7月宣布，并且我们认为下半年受益于美国三条主线，分别是PJM电网容量缺口，FERC新增带来的并网数据中心备用需求，AIDC本身的功率平滑，有望实现AIDC配储订单的正式落地。预计明年200亿利润，看25x，5000亿市值\n\n催化剂：AIDC配储订单落地，AIDC电源进展 | 1、储能毛利率磨底，碳酸锂跌价明确拐点信号\n公司前期下跌主要系海外部分市场竞争加剧、碳酸锂涨价致储能毛利率大幅下降，我们判断储能系统毛利率已开始磨底。碳酸锂近期跌价有望传导至Q3成本端，#预计Q3将进入储能毛利率明确拐点。\n2、AI配储订单有望落地，中长期抬升储能市场空间及盈利能力\nAI配储对PCS、EMS要求较高，公司已与部分CSP厂商对接，预计26年将落地相关场景订单，27年开始批量发货；中长期看，我们判断伴随配储容量及时长提升、其他类电源产能释放受阻，AI配储有望迎来更大时长空间，且要求高/价格贵，提升公司储能市场天花板及盈利能力。\n3、AIDC进展顺利，打开成长空间\n目前公司所接触SST意向较多，需验证可靠性后接单；预计近期推出SST解决方案#发布即可售，后续将全面覆盖灰区/白区多品类电源产品（SST、HVDC、储能、PSU）等，技术能力角度仅公司和台达最强，也是全球SST进展最快的企业之一。我们判断远期AIDC将成为几千亿级别市场，完全媲美全球储能市场，且技术验证要求高，份额及盈利更优。",
-        "base_price": 136.92,
-        "latest_price": 103.37,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -24.5
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "通信",
@@ -9728,11 +9729,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "招商-罗嘉成, 国联民生-张宁",
         "change": "1",
         "reason": "全年订单清晰、物料逐季改善、硅光比重提升，后续业绩爆发力强。\n1）泰国新建厂房持续扩产，后续季度光模块产能预计将加速释放。同时，公司积极向DSP等供应商备货，为后续产能增长做充分的准备。2）2027年1.6T光模块出货量有望超预期提升，Scale up布局全面具备长期成长能力，公司业绩弹性较大。\n❑ 风险提示：下游市场需求不及预期、高端产品价格不及预期、原材料价格波动的风险、市场竞争加剧、全球贸易摩擦加剧等。 | 资本开支迅速增长，光学互联需求提升，旭创作为光模块龙头厂商有望充分受益，同时NPO需求逐渐上修。",
-        "base_price": 575.56,
-        "latest_price": 396.01,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -31.2
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电子",
@@ -9742,11 +9743,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "东吴-东吴-周尔双, 东方-张书铭",
         "change": "0",
         "reason": "看好半导体扩张超预期",
-        "base_price": 333.67,
-        "latest_price": 259.64,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -22.19
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电力设备",
@@ -9756,11 +9757,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "招商-蒋国峰, 光大-殷中枢",
         "change": "-2",
         "reason": "锂电产业龙头，行业议价权强，近期中游涨价到宁德普遍遇到阻力，公司钠电，凝聚态布局早，有望受益于需求超预期。\n❑风险提示：上游材料涨价超预期，顺价不及时。 | 1、全球动力电池龙头地位稳固，在新能源车渗透率提升及全球储能需求高景气的背景下，公司有望持续受益",
-        "base_price": 383.84,
-        "latest_price": 395.3,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": 2.99
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "非银金融",
@@ -9770,11 +9771,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国君-刘欣琦, 银河-张琦",
         "change": "新增",
         "reason": "看好公司2026年业绩弹性，电力业务提供稳健盈利 | 行业绝对龙头，二季度市场边际改善中报业绩或超预期",
-        "base_price": 29.47,
-        "latest_price": 28.43,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -3.53
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "基础化工",
@@ -9784,11 +9785,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "中信-中信证券-朱立伟、刘同心（化工）, 国联民生-许隽逸",
         "change": "新增",
         "reason": "三代氟制冷剂进入“总量锁定+龙头配额集中”的新周期，公司在 HFCs 各主流品种配额中占据绝对优势。三代制冷剂配额优势叠加价格上行，配合氟聚合物与氟化液的高端化布局，驱动公司从传统周期股向“资源+新材料平台”重估。 | 财富管理转型深化，大资管业务优势稳固。ROE表现亮眼，基本面向好趋势下，公司估值有望修复。",
-        "base_price": 55.85,
-        "latest_price": 39.52,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -29.24
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "石油化工",
@@ -9798,11 +9799,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "申万-邵靖宇, 开源-金益腾",
         "change": "1",
         "reason": "聚酯产业链供需改善，各环节盈利修复;行业联合减产保价，成本传导顺畅，公司充分受益行业景气上行。 | 公司为全球PTA-涤纶长丝龙头，伴随PTA及长丝行业供需格局改善、反内卷持续进行以及下半年旺季补库需求的释放，PTA、长丝价差有望持续走扩。",
-        "base_price": 23.15,
-        "latest_price": 22.4,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -3.24
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "有色金属",
@@ -9812,11 +9813,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "光大-王招华, 银河-华立",
         "change": "0",
         "reason": "1、行业：矿端扰动仍在，铜矿供应难以放量；数据中心、储能等新兴需求增速较快，看好铜价继续上行。降息周期叠加，继续看好金价上行\n2、公司：铜、黄金产量仍将维持稳定增长 | 铜矿紧缺加剧，美国对铜加关税预期引发虹吸效应引发精铜结构性短缺",
-        "base_price": 25.11,
-        "latest_price": 32.95,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": 31.22
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "基础化工",
@@ -9826,11 +9827,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "中信-中信证券-朱立伟、管宸昊(能源转型), 国海-董伯骏",
         "change": "新增",
         "reason": "铬盐行业全球供给高度集中，南非铬矿资源约束叠加环保政策趋严，新增产能审批严格。公司作为全球铬盐龙头，产能规模与技术壁垒领先，下游冶金、化工、新材料需求稳步增长。受益于铬盐价格中枢上移与高端铬化学品放量，公司从传统化工向新材料平台转型，当前估值处于历史低位，盈利与估值具备双重弹性 | ①2025年产品产销量再创新高，份额提升迎铬盐景气周期。\n②2026Q1铬盐产量同比高增，部分产品交付在途致确收延期。\n③积极拓展高端需求场景，走出全球化布局第一步。",
-        "base_price": 49.5,
-        "latest_price": 31.14,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -37.09
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "医药",
@@ -9840,11 +9841,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国信-黄秀杰, 开源-余汝意",
         "change": "0",
         "reason": "公司是全球 CRDMO 一体化龙头，深度受益于全球创新药研发需求回暖， Tides 业务放量增长，在手订单充足，产能持续扩张，盈利增速明确，当前估值具备性价比优势 | 1）ADC、多肽、小核酸等细分赛道保持高景气增长，全球生物医药投融资持续回暖，海外业务占比较高的平台型CXO与头部CDMO业绩环比持续改善；2）公司作为行业龙头业绩持续超预期，2026Q1实现营收124.4亿元，同比+28.8%，其中持续经营业务收入同比增长39.4%，大幅超越原先指引，2026有望延续高质增长；3）在手订单饱满，截至2026Q1末持续经营业务在手订单597.7亿元，同比+23.6%；4）小分子D&M收入强劲增长：26Q1公司小分子D&M业务收入69.3亿元，同比+80.1%，小分子D&M收入已连续五个季度递增，随着礼来口服小分子减肥药orforglipron加速放量，2026年该业务持续贡献业绩增量；5）TIDES业务短期稳健、全年高增确定性强。2026Q1 TIDES业务收入23.8亿元，同比+6.1%，公司预计全年TIDES业务收入将实现约40%增长。",
-        "base_price": 125.2,
-        "latest_price": 128.43,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": 2.58
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电新",
@@ -9854,11 +9855,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国君-徐强",
         "change": "新增",
         "reason": "大尺寸产品价格稳中有升，中小尺寸LCD业务处于高速成长期",
-        "base_price": 6.12,
-        "latest_price": 4.73,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -22.71
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电子",
@@ -9868,11 +9869,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "东方-张书铭",
         "change": "0",
         "reason": "看好MLCC涨价",
-        "base_price": 74.4,
-        "latest_price": 49.35,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -33.67
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "家用电器",
@@ -9882,11 +9883,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "光大-洪吉然",
         "change": "0",
         "reason": "1、低估值以及高股息的空调龙头企业\n2、晶弘空调补齐质价比需求拼图且具备扩张潜力\n3、2026年国补延续有利于空调行业延续增长趋势",
-        "base_price": 37.46,
-        "latest_price": 42.3,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": 12.92
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电子",
@@ -9896,11 +9897,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "华泰-郇正林",
         "change": "新增",
         "reason": "玻璃基封装载板链主，受益算力封装升级。",
-        "base_price": 8.77,
-        "latest_price": 5.51,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -37.17
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "军工",
@@ -9910,11 +9911,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国君-杨天昊",
         "change": "0",
         "reason": "高可靠电子元器件筑基，军民电子需求支撑长期成长",
-        "base_price": 62.3,
-        "latest_price": 40.97,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -34.24
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "有色金属",
@@ -9924,11 +9925,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "中信-中信证券-朱立伟、张铭赫(有色)",
         "change": "新增",
         "reason": "锡矿全球供给瓶颈持续，缅甸佤邦复产进度低于预期、印尼出口政策约束，锡精矿原料端紧张延续。需求侧 AI 算力、光伏焊带与新能源汽车电子持续拉动锡消费，公司作为全球锡矿与冶炼龙头，资源自给率行业领先，充分受益锡价中枢上移与量价齐升。",
-        "base_price": 42.32,
-        "latest_price": 34.1,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -19.42
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "有色金属",
@@ -9938,11 +9939,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "华泰-李斌",
         "change": "0",
         "reason": "26年自产金和外延并购预期 矿产金有望增至9-10t，27年有望扩至14-15t。对应归母65、100e。估值11x、7x，严重低估。",
-        "base_price": 16.78,
-        "latest_price": 23.38,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": 39.33
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "基础化工",
@@ -9952,11 +9953,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "华泰-庄汀洲",
         "change": "新增",
         "reason": "公司主要从事覆铜面板、印刷线路板、化工材料等业务，具备上游铜箔、电子玻璃纤维纱、电子玻璃纤维布等关键原料配套能力，形成PCB垂直一体化产业链。我们认为在AI驱动下的PCB产业链持续景气、化工等业务逐步改善下，公司盈利能力有望显著增强，且盈利结构改变下价值有望重估。市场低估了PCB业务对公司整体盈利的影响及化工、房地产等其他业务的改善情况。过去公司的盈利主要来源为化工、房地产等，受宏观经济等影响盈利及估值水平偏低。AI等需求景气下带动公司PCB、覆铜板等业务有望成为主要盈利来源，在上游原材料紧张的背景下，公司垂直一体化有望显著受益，且更快推进高端覆铜板及PCB下游验证，价值有望重估。",
-        "base_price": 117.9,
+        "base_price": null,
         "latest_price": null,
-        "currency": "HKD",
-        "base_date": "20260701",
-        "change_pct": null
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电子",
@@ -9966,11 +9967,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "招商-鄢凡、涂锟山",
         "change": "0",
         "reason": "平台型激光设备龙头，迎接新一轮AI终端+算力高质量成长。\n1、AI端侧： 苹果AI硬件创新加速带动设备投资，大族3D打印核心卡位打开成长空间。\n2、算力PCB： 下游算力PCB加速扩产及技术升级，PCB业务进入新一轮高端化升级周期。\n3、光纤：子公司Coractive及光纤专利储备丰富，看好公司光纤业务超预期突破进展。\n4、玻璃基板：产业化落地有望加速，超级激光设备卡位TGV核心环节。\n5、液冷：收购液冷方案商安腾创新，有望与现有激光和3D打印设备协同打开液冷业务新空间。\n综上，我们看好激光龙头迎接新一轮高质量成长，苹果创新与3D 打印、PCB推动主业向上，以及在光纤、玻璃基板、液冷等赛道有前瞻卡位优势，公司具有超预期兑现潜力。\n❑风险提示：AI发展不及预期、下游景气度低于预期、大客户创新低于预期、技术研发低于预期、市场竞争加剧。",
-        "base_price": 137.98,
-        "latest_price": 84.51,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -38.75
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "军工",
@@ -9980,11 +9981,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国信-吴双",
         "change": "新增",
         "reason": "公司是特种领域连接器龙头，近期在民用领域实现重大突破，首次进入华为供应商体系高速背板模组，7月份转大批量关键节点，业绩有望兑现。目前估值被低估",
-        "base_price": 80.2,
-        "latest_price": 61.37,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -23.48
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "通信",
@@ -9994,11 +9995,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国君-余伟民",
         "change": "新增",
         "reason": "定增项目顺利落地，光连接及高速光传输新增产能逐步释放",
-        "base_price": 242.43,
-        "latest_price": 161.65,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -33.32
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电子",
@@ -10008,11 +10009,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国联民生-薛宏伟",
         "change": "新增",
         "reason": "1) mSAP龙头，1.6T光模块PCB工艺壁垒高，技术难度大，当前供给明显短缺，随着1.6T光模块的放量，未来相关业务预计将继续快速成长；2) AI产能积极扩张中，AI大客户新一代产品加速放量。",
-        "base_price": 246.31,
-        "latest_price": 171.48,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -30.38
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "基础化工",
@@ -10022,11 +10023,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "申万-宋涛",
         "change": "新增",
         "reason": "半导体前驱体产品与国内外主要存储厂商保持合作，存储行业扩产带来增量空间；公司围绕光刻胶等电子材料进行平台化和全球化布局。",
-        "base_price": 236.09,
-        "latest_price": 133.8,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -43.33
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "有色金属",
@@ -10036,11 +10037,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "东吴-东吴-王紫敬",
         "change": "新增",
         "reason": "1.磷化铟是光模块核心基础材料，英伟达预测，2026年—2030年磷化铟晶圆需求将激增约20倍。\n2.全球磷化铟衬底材料市场高度集中且被国外垄断，美日企业占据全球主要产能。磷化铟衬底大尺寸生产工艺门槛高，进入供应链需要较长验证周期，上游关键设备产能有限，国产替代壁垒高。\n3.云南锗业是全球第三个掌握大尺寸磷化铟制备技术的企业。公司已获批开展磷化铟扩产项目，完成后将达到45万片（折合4英寸）产能，将充分承接国产替代需求。",
-        "base_price": 114.85,
-        "latest_price": 66.95,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -41.71
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "建材",
@@ -10050,11 +10051,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "中信-中信证券-朱立伟、陆竑(建材)",
         "change": "新增",
         "reason": "看好公司把握手工具行业发展机遇，实施由 OEM 向自主品牌、中低端向高端转型的发展战略，通过持续研发创新、获得高阶认证，切入北美大客户供应链体系，提升市场占有率和公司高附加值品类销售占比。当前估值处于历史低位，受益海外去库存周期结束与补库需求释放，实现量价齐升。",
-        "base_price": 30.51,
-        "latest_price": 29.94,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -1.87
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电子",
@@ -10064,11 +10065,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "招商-鄢凡",
         "change": "-1",
         "reason": "1、消费电子方面，立讯仍是苹果产业链中具备全球产能布局能力和优秀成本效率的优秀代表，苹果Apple Intelligence升级仍值得期待，折叠机、AI耳机、XR等新终端和光学、结构件等多方面的零部件创新公司仍在全面参与，公司对和硕手机、闻泰Mac和Qorvo射频模组等资产的整合和效率提升仍有空间，公司维持中长线苹果业务稳健增长仍无虑；非A消费电子部分，公司以“场景生态、AI赋能、全球协同”三位一体战略和以“垂直整合+场景创新”双轮驱动，在OEM和ODM领域完成从零部件到系统方案的全链条突破。\n2、通信业务方面，公司持续深耕电连接、光连接、风冷/液冷散热、电源管理、射频等产品，以“应用一代，开发一代，预研一代”为产品核心战略，构建起强大的技术壁垒和市场竞争力。尤其在数据中心高速互联领域，公司协同头部芯片厂商前瞻性为全球主流数据中心及云服务厂商共同制定 800G、1.6T 等下一代高速连接标准，部分细分领域产品如外部高速铜缆、线缆及连接器组件、背板连接器及背板线缆、HSIO、SSIO 等更是以领先的技术、成本优势和优异的产品表现赢得了客户的认可。在此基础上，公司以此为切入口，全面拉动光连接、散热、电源模块等产品与头部客户展开进一步深度合作，打开长线业务空间；\n3、汽车业务方面，公司依托强大的智能制造平台，快速实现向汽车产业相关产品的跨界赋能，并基于与海内外头部主机厂和汽车品牌客户的深度战略合作伙伴关系，为汽车业务相关产品打开了广阔的市场空间，近期收购莱尼线束业务叠加后续布局，为在未来三个五年实现成为全球汽车零部件 Tier1 领导厂商的中长期目标奠定坚实的基础。\n4、公司业绩基本面兑现能力强，未来数年业绩快速复合增长确定，当前低估价值凸显，长线空间可观。\n❑风险提示：全球政治经济环境波动，新品新业务布局不及预期，竞争加剧。",
-        "base_price": 66.24,
-        "latest_price": 57.48,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -13.22
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电子",
@@ -10078,11 +10079,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国君-陈豪杰",
         "change": "新增",
         "reason": "AI电源逐级升级，电容业务进入爆发周期",
-        "base_price": 106.66,
-        "latest_price": 58.71,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -44.96
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电新",
@@ -10092,11 +10093,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "浙商-邱世梁、汪成",
         "change": "新增",
         "reason": "市场担忧：隔膜行业前期产能过剩，价格下行、盈利承压，成长空间有限。\n我们认为：1、需求端：动力电池稳健增长，储能需求高增，全球隔膜需求有望持续超预期。2、供给端：隔膜重资产、建设周期长，头部企业扩产谨慎，行业供需有望从过剩走向紧平衡。",
-        "base_price": 65.44,
-        "latest_price": 52.59,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -19.64
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "医药",
@@ -10106,11 +10107,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "浙商-郭双喜",
         "change": "新增",
         "reason": "1）潜力重磅管线临床进度超预期，公司在小分子GLP-1、减重多肽药物、毒素连接体临床后期项目数分别为2、8（4个PPQ阶段）、6个（PPQ阶段）。①2025年参与减重相关小分子GLP-1临床阶段项目5个，其中2个处于临床后期。②服务处于临床阶段的多肽药物52个，其中减重相关领域项目19个，有8个处于临床后期。③毒素连接体业务服务临床阶段项目 36 个，其中验证批阶段（PPQ）项目 6 个。\n2）资本开支重回高位&产能储备超预期。公司年报中提到：“截至报告期末，多肽固相反应合成总产能为45,000L，预计2026 年底将进一步增至69,000L，以满足在手订单未来产能需求；寡核苷酸产能达120mol，预计2026年6月底将增至180mol，以提升项目交付能力；持续推进高活产能建设，2025年一栋OEB5厂房和研发楼建成并投入使用，显著增加高活性药物的商业化项目交付能力”。同时公司还披露：随着公司业务持续向好，将积极推进产能扩充，预计2026年公司Capex约为21亿元，与历史最高的2022年资本开支绝对值相当。我们认为公司产能加速扩张，得益于公司新兴业务板块尤其是多肽、payload、linker等领域管线的强劲需求，有望驱动公司订单的高确定性和业绩加速可能性。",
-        "base_price": 164.8,
-        "latest_price": 152.65,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -7.37
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电子",
@@ -10120,11 +10121,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "东方-张书铭",
         "change": "新增",
         "reason": "看好功率半导体涨价",
-        "base_price": 109.9,
-        "latest_price": 60.3,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -45.13
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电子",
@@ -10134,11 +10135,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国联民生-薛宏伟",
         "change": "新增",
         "reason": "资本开支迅速增加，看好光互连市场空间扩大背景下新易盛充分受益。",
-        "base_price": 102.4,
-        "latest_price": 81.5,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -20.41
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "房地产",
@@ -10148,11 +10149,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "华泰-陈慎，林正衡",
         "change": "0",
         "reason": "作为中国消费“HALO资产”的头部运营商，公司具备深度嵌入中国线下消费供给侧的基础设施网络运营能力，难有竞争对手能够进行体系化抗衡。我们认为购物中心商管业务应与国际酒管公司对标，同时充分考虑竞争壁垒的稀缺性、稳固性，经营计划的透明性，给予一定估值溢价和时间溢价。基于分部估值结果，我们认为公司估值相对合理水平仍有一定上行空间，同时高股息有望提供底线价值保护。我们预计公司26-28年核心归母净利润为44.5/50.2/56.9亿元，CAGR为13%，27E股息率为5.1%。我们将公司分为购物中心商管、大物管、生态圈业务三部分，对标国际酒管公司、头部物管公司、Fetch（大会员业务）进行分部估值，分别给予34、11倍27PE和5倍27PS，得到合理市值为1451亿港币，目标价63.57港币。",
-        "base_price": 36.68,
+        "base_price": null,
         "latest_price": null,
-        "currency": "HKD",
-        "base_date": "20260701",
-        "change_pct": null
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "煤炭",
@@ -10162,11 +10163,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国海-陈晨",
         "change": "新增",
         "reason": "①在2025年市场煤价下行背景下煤炭业务仍保持较高利润率。\n②2025年中期、特别及建议末期合计分红比例123%，对应股息率6.7%。\n③若Makhado项目顺利实现产能提升，则预计公司2028年权益产能将提升347万吨至997万吨（+53%），具备高产能成长性。",
-        "base_price": 1.54,
+        "base_price": null,
         "latest_price": null,
-        "currency": "HKD",
-        "base_date": "20260701",
-        "change_pct": null
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "化学制药/生物制品",
@@ -10176,11 +10177,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "东吴-东吴-朱国广",
         "change": "新增",
         "reason": "公司国内商业化顺利推进，玛仕度肽、替妥尤单抗等慢病药物放量迅速，公司2027年产品销售目标200亿兑现在即；在研管线丰富，创新性强，仅考虑国内商业化估值1200+亿市值。海外BD持续兑现，IBI363有望成为下一代肿瘤免疫标准疗法，与MNC的co-co合作有望培养公司海外临床及商业化能力，为未来独立出海打下基础。考虑海外市值贡献，目标市值2200亿港元。\n（1）市场对公司国内商业化估值锚定2027年200亿销售；我们认为，公司仍处于快速释放业绩阶段，按照峰值销售PS估值计算，国内峰值销售额超400亿；\n（2）市场担心玛仕度肽销售不及预期。我们认为，玛仕度肽创新性强，减肝脏脂肪具备差异化特色，权威文献支撑产品力，目前放量符合预期；\n（3）市场担心IBI363应用于1L适应症的潜力。我们认为，loading dose给药的方式大幅提升了IBI363 1L安全性，用于1L肺癌及其他肿瘤的确定性逐步提升；\n（4）市场认为与礼来、辉瑞合作的产品过于早期，无法贡献估值。我们认为，co-co合作有助于公司提升海外能力，且与MNC的合作是对信达研发能力的背书，对公司的平台价值有较大加成。",
-        "base_price": 79.6,
+        "base_price": null,
         "latest_price": null,
-        "currency": "HKD",
-        "base_date": "20260701",
-        "change_pct": null
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "互联网&海外科技",
@@ -10190,11 +10191,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国信-刘孟峦",
         "change": "0",
         "reason": "AI服务器终端需求旺盛导致CCL供不应求，供给瓶颈在于上游电子布织布机短缺，建滔为一体化CCL龙头，电子布已实现自产，2026年提价多次，累计涨幅超70%，预计26-27年AI服务器带来的电子布缺口为20%/46%，未来仍有提价潜力。",
-        "base_price": 99.15,
+        "base_price": null,
         "latest_price": null,
-        "currency": "HKD",
-        "base_date": "20260701",
-        "change_pct": null
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "房地产",
@@ -10204,11 +10205,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "申万-袁豪",
         "change": "0",
         "reason": "土储结构较好，聚焦核心城市，后续销售与盈利弹性充足；财务保持稳健，三条红线维持绿档。",
-        "base_price": 13.5,
+        "base_price": null,
         "latest_price": null,
-        "currency": "HKD",
-        "base_date": "20260701",
-        "change_pct": null
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "纺织服装",
@@ -10218,11 +10219,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国信-张向伟",
         "change": "0",
         "reason": "二季度在大环境承压情况下预计仍然符合指引，展现经营韧性，尤其高端品牌增长出色、量价齐升，在下半年更低的基数下全年有望继续超预期，明后年并购减亏也将加速集团业绩增长，高端品牌利润占比持续提升，是通缩消费大盘里的通胀稀缺标的，当下仅12倍估值具备性价比。",
-        "base_price": 71.05,
+        "base_price": null,
         "latest_price": null,
-        "currency": "HKD",
-        "base_date": "20260701",
-        "change_pct": null
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "化学制药/生物制品",
@@ -10232,11 +10233,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国海-曹泽运",
         "change": "新增",
         "reason": "①康悦达已上市三项适应症，看好后续销售放量。\n②阿斯利康（AZ）已开展多项CMG901用于晚期实体瘤的临床研究。\n③CM512临床顺利推进。",
-        "base_price": 70.75,
+        "base_price": null,
         "latest_price": null,
-        "currency": "HKD",
-        "base_date": "20260701",
-        "change_pct": null
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "传媒",
@@ -10246,11 +10247,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "开源-方光照",
         "change": "新增",
         "reason": "步入暑期，《心动小镇》玩家或逐步回流，6.27前瞻两周年庆，7月中旬两周年庆上线，此外暑期或储备更多重磅IP联动，系列活动有望推动流水回升；国际服2026.1.8上线即登顶美日韩在内的16个国家地区iOS游戏免费榜，2月排Sensor Tower出海手游收入榜第11，或为2026H1贡献大额增量业绩。TapTap Maker已日产出10-20款游戏，我们看好TapTap、Maker、ADN组成的优质游戏“生产-分发-变现”生态，随Maker优化加速优质游戏供给释放，叠加2026年丰富多端大作提供配合宣发机会，TapTap用户量及粘性或持续提升，拓宽商业化空间。",
-        "base_price": 45.54,
+        "base_price": null,
         "latest_price": null,
-        "currency": "HKD",
-        "base_date": "20260701",
-        "change_pct": null
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "军工",
@@ -10260,11 +10261,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "申万-穆少阳",
         "change": "0",
         "reason": "公司为星链地面终端射频天线核心供应商，ASP150-200元，短期催化为5月份国内商业航天β及SpaceXIPO，长期核心受益于星链全球用户快速增长，目标市值1200-1500e。",
-        "base_price": 112.16,
-        "latest_price": 57.48,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -48.75
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "化工",
@@ -10274,11 +10275,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "浙商-杨占魁",
         "change": "0",
         "reason": "摘牌收购邢台顺科、邢台智算100%股权，5万P算力未来可期。\n一、超预期逻辑\n1、算力租赁涨价潮或持续：需求端，AI大模型持续迭代，推动Token消耗呈指数级增长。供给端，芯片管制叠加产能瓶颈，高端算力自主供给承压。算力租赁成为重要算力供给，价格或持续上涨。同时服务器成本上涨，或延长算力租赁涨价持续性。\n2、5万P算力未来可期：邢台智算是华为（邢台）大数据产业园内太行智算中心的运营主体，据清河发布，太行智算中心一期项目已投运5340P算力，二期项目力争2026底建成投产，届时总算力规模将达到5万P。\n3、绿电资源保障明确：河北邢台高新区管委会已与公司签订《战略合作框架协议》，承诺全力保障不低于200MW风电项目指标，提供绿电资源基础，符合国家“算电协同”政策导向。\n二、检验与催化\n算力租赁价格上涨超预期；算力项目建设进度超预期；算力租赁订单超预期等。",
-        "base_price": 17.7,
-        "latest_price": 10.72,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -39.44
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "机械",
@@ -10288,11 +10289,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "浙商-邱世梁、王华君",
         "change": "新增",
         "reason": "一、主业：25年同比减亏55%，电池壳业务快速增长，主业有望扭亏为盈\n2021-2025年，电池壳业务收入复合增速达104%，收入占比从8%提升至64%，已成为主要业绩驱动力，后续随产能爬坡、生产效率及良品率进一步提升，亏损有望持续收窄、毛利率持续改善，迎来整体盈利拐点。\n二、算力散热领域：新设子公司、携手北科大，推动金刚石/金属散热产品量产\n1、25年12月，公司与控股子公司共同设立斯莱克热控科技（公司持股85%），重点推进AI算力散热产品。\n2、26年3月，公司与北科大签署《技术开发合同》，共同研发金刚石/金属散热产品。\n传统金属材料接近散热极限，金刚石/金复合材料热导率高、热膨胀系数可调，是高端散热必然需求，在大功率激光器等多个领域前景广阔。\n目前公司已开发出金刚石复合材料的热沉样品、产品处于待测试阶段、后续将有序推进专用设备开发、以及金刚石复合材料的小试和量产工作。\n三、人形机器人零部件：谐波减速器柔轮通过疲劳测试、原型机通过性能验证\n截至2025年年报，公司谐波减速器杯型柔轮，已完成样品制作、通过疲劳测试，杯型谐波减速器原型机已通过性能验证，后续伴随机器人量产，减速器业务有望构建新增长曲线。",
-        "base_price": 23.08,
-        "latest_price": 12.39,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -46.32
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "有色金属",
@@ -10302,11 +10303,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "申万-郭中伟",
         "change": "新增",
         "reason": "超纯水树脂受益需求&涨价，底部位置重点推荐",
-        "base_price": 70.62,
-        "latest_price": 58.57,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -17.06
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "机械",
@@ -10316,11 +10317,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国联民生-李哲",
         "change": "新增",
         "reason": "1）大资管业务护城河深厚，公募基金景气回升有望带来\"业绩+估值\"双击。广发证券参控股易方达和广发基金，非货AUM分别排名行业第三、第一，资管收入延续增长势头，2026年一季度资管净收入23）2026Q1末公司金融资产合计规模5709亿元，yoy+30%/qoq+17%，其中交易性及衍生金融资产规模4580亿元，yoy+52%/qoq+24%。依据我们的测算，2026Q1公司年化投资收益率为）业绩高增确定性强，多业务协同驱动ROE提升。1Q26公司加权平均年化ROE13.28%，较去年同期+5.04pct。海外业务需求旺盛、盈利能力优秀，大财富管理业务长逻辑向好；同比+45.5%，大资管业务核心优势稳固，财富管理转型卓有成效；",
-        "base_price": 303.62,
-        "latest_price": 191.0,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -37.09
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "新能源",
@@ -10330,11 +10331,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国联民生-邓永康",
         "change": "新增",
         "reason": "1) 光芯片供需错配，27年依旧偏紧；2) 子公司索尔思具备较强光芯片量产能力，同时大功率激光器切入海外客户，量价齐升；3) 光模块业务持续推进。",
-        "base_price": 19.66,
-        "latest_price": 13.33,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -32.2
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电力设备",
@@ -10344,11 +10345,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "光大-尹会伟",
         "change": "0",
         "reason": "1、公司在数据中心领域已形成覆盖一次、二次及三次变换的全系列电源解决方案供给能力\n2、二次电源已达到国际先进水平，公司目前是ADI合作供应商，相关产品已进入批量供货阶段\n3、前瞻性布局三次电源，已突破POWER BLOCK和VPD电源核心技术，主要技术指标对标国际先进水平，是国内少数具备该方向核心技术能力的企业。",
-        "base_price": 27.96,
-        "latest_price": 23.88,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -14.59
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电力设备",
@@ -10358,11 +10359,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "东吴-东吴-周尔双",
         "change": "新增",
         "reason": "1、受益于存储涨价&AI芯片需求高景气度&国产先进制程产线陆续突破，国内客户加速扩产：①两大存储FAB加速新产能扩张，②国产AI算力芯片进展顺利&需求持续高景气度，有望加速国内玩家扩产，对应设备订单加速放量。\n\n2、制裁加剧加速国产设备导入，提升产线国产化率：美因外资半导体设备龙头在华销售收入占比持续提升，加码制裁。我们判断未来迫于美国的压力，外资设备龙头对华出口先进设备或有更明显压力，国内FAB厂有望加速导入国产设备，显著提升产线国产化率。\n\n3、公司差异化布局半导体设备，先进材料&刻蚀设备全面领先：公司差异化布局先进制程设备，平台化覆盖薄膜&刻蚀等前道设备，有望充分受益于此轮历史性机遇。\n\n4、公司光伏业务稳健。公司2024-2025年行业下行周期已充分计提相关减值，行业现已重回增长曲线，公司相关业务稳健成长。",
-        "base_price": 306.5,
-        "latest_price": 148.86,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -51.43
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "机械设备",
@@ -10372,11 +10373,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "申万-刘建伟",
         "change": "新增",
         "reason": "晶圆WAT测试机+配套EDA/良率管理等双箭齐发，乘国产半导体扩产东风。",
-        "base_price": 123.21,
-        "latest_price": 66.0,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -46.43
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电新",
@@ -10386,11 +10387,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国君-徐强",
         "change": "新增",
         "reason": "布局AI算力基础设施，受益算电协同与算力配套装备需求提升",
-        "base_price": 20.83,
-        "latest_price": 11.93,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -42.73
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "通信",
@@ -10400,11 +10401,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "华泰-王兴",
         "change": "新增",
         "reason": "中字节供应商大会显示国产算力2728大幅度起量，锐捷网络中报超预期。",
-        "base_price": 85.92,
-        "latest_price": 118.0,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": 37.34
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电力设备",
@@ -10414,11 +10415,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国海-邱迪",
         "change": "新增",
         "reason": "①公司致力于清洁能源与高端装备制造两大领域，2025年扭亏为盈。\n②外延并购进军火箭零部件3D打印及箭体结构领域，开辟第二增长曲线。\n③政策助推行业发展，商业航天“十五五”有望迎来重大发展机遇",
-        "base_price": 161.5,
-        "latest_price": 93.9,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -41.86
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电子",
@@ -10428,11 +10429,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "浙商-王凌涛",
         "change": "新增",
         "reason": "1、半导体散热片市场主要被美日韩及中国台湾厂商垄断，公司依托过往的精密制造研发经验、配合专业人才的引入，逐步实现了从原材料制程、加工工艺到量产产线的突破。当下鸿日达已经与国内主流芯片设计公司、封装厂建立业务对接，并已部分完成工厂审核、样品验证导入，起量在即，预期2026年将能有效实现规模化产出。\n2、2025年上半，公司横向切入光通信领域，依托原有BTB连接器的的自动化研发能力，公司在FA（光纤阵列）的制造环节采用自研自动化设备，实现自动化产线的设计目标，并不断提升产品的生产效率和良率。当下公司已经在部分关键客户领域实现有效导入，2026年FAU的接单代工将成为利润输出的重要支撑。\n3、公司2025年半年报披露上半年已经完成“3D打印设备的开发研制工作，并进入批量制造阶段”，当下其在3D微流道散热模块的研发与生产已渐露头角，并逐渐进入关键下游客户的验证环节。3D微流道散热是当下AI服务器液冷板的重要发展方向，前景可期。",
-        "base_price": 113.02,
-        "latest_price": 65.64,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -41.92
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电力设备与新能源",
@@ -10442,11 +10443,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国信-陈伟奇",
         "change": "新增",
         "reason": "公司聚焦风光储、智能电网、数据中心等全球高增长领域，通过间接+直接出海推进全球化战略，海外业务收入有望迎来高增。公司已成功实现UPS、HVDC、SST三大技术路线的全线布局，且已切入头部互联网企业供应链，并实现批量交付；公司已成功进入全球头部AI企业供应链，AIDC电力设备订单预计将快速放量。",
-        "base_price": 35.39,
-        "latest_price": 38.28,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": 8.17
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "互联网",
@@ -10456,11 +10457,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "华泰-夏路路",
         "change": "0",
         "reason": "美团外卖竞争拐点确立，四季度UE亏损大幅收窄，Q1有望显著改善；到店短期承压但中长期利润率可回30%以上；新业务减亏超预期，沙特部分城市已盈利，海外模型跑通。看好估值修复，目标120港元。",
-        "base_price": 68.5,
+        "base_price": null,
         "latest_price": null,
-        "currency": "HKD",
-        "base_date": "20260701",
-        "change_pct": null
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "公用事业",
@@ -10470,11 +10471,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "光大-殷中枢",
         "change": "0",
         "reason": "1、国内火电龙头标的，受益于火电商业模式转型",
-        "base_price": 7.59,
-        "latest_price": 7.19,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -5.27
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "交通运输",
@@ -10484,11 +10485,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "华泰-沈晓峰",
         "change": "新增",
         "reason": "过去2周，通行量大幅回升至冲突以来最高水平，VLCC运价大幅反弹。海峡通行恢复后，中东货量回升，运价或短期冲高，建议把握交易性机会。",
-        "base_price": 16.7,
-        "latest_price": 16.87,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": 1.02
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电子",
@@ -10498,11 +10499,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "招商-鄢凡、程鑫",
         "change": "0",
         "reason": "业绩大超市场预期，CCL涨价+AI放量双轮驱动利润翻倍\nCCL业务受益涨价周期叠加AI产品结构升级，PCB业务维持高景气。 分业务看：（1）CCL业务：26Q1公司传统CCL持续严格推进涨价策略，在上游铜箔、玻璃布等原材料成本高企背景下，凭借龙头议价能力实现成本顺畅传导并获取超额涨价收益。（2）PCB业务：子公司生益电子26Q1营收24.11亿元（同比+52.6%），归母净利4.45亿元（同比+122.2%），毛利率35.2%（同比+5.4pcts），AI算力PCB需求强劲，AWS T3客户Q1重新开启拉货，全年A客户营收有望超50亿元。\nCCL涨价超周期演绎，52亿东莞项目打开远期成长空间。 4月以来覆铜板行业涨价节奏超预期，建滔月内两次涨价合计20%，台光M6+产品涨价15%。上游铜箔加工费上涨、玻璃布供给偏紧（薄型布被AI专用低Dk布需求挤占），成本支撑叠加供需偏紧推动CCL涨价周期的持续时间和幅度均可能超出前期预期。公司兼具CCL涨价周期弹性与AI新品放量的双重成长逻辑，作为全球CCL龙头及国产AI材料替代核心标的，中长期增长确定性强。\n❑风险提示：算力需求增长不及预期；客户业务拓展不及预期；原材料成本传导不顺。",
-        "base_price": 164.8,
-        "latest_price": 105.64,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -35.9
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电子",
@@ -10512,11 +10513,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "开源-陈蓉芳",
         "change": "新增",
         "reason": "控股数渡切入#高壁垒PCIe Switch赛道，AI Agent时代强化CPU为主体的互联配套品类，板块已进入全面缺货上行周期",
-        "base_price": 17.81,
-        "latest_price": 10.7,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -39.92
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "医药",
@@ -10526,11 +10527,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国君-余文心",
         "change": "0",
         "reason": "和BMS达成协议，研发实力再次获得认证，拓展公司海外合作模式",
-        "base_price": 53.78,
-        "latest_price": 54.08,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": 0.56
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电子",
@@ -10540,11 +10541,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "东方-张书铭",
         "change": "新增",
         "reason": "看好功率半导体涨价",
-        "base_price": 53.15,
-        "latest_price": 28.26,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -46.83
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电力设备及新能源",
@@ -10554,11 +10555,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "中信-中信证券-朱立伟、姜舜尧（机械）",
         "change": "0",
         "reason": "造船周期持续上行，新能源动力换船驱动因素强大。AI数据中心发电柴发及铅酸电池有望开辟公司新增长极。在AIDC柴发领域，公司产品之前用在船用高速发动机领域，与潍柴重机合计占据国内该领域50%以上市场份额，同时这些船用领域大缸径的高速发动机还广泛应用于数据中心发电。",
-        "base_price": 33.08,
-        "latest_price": 26.76,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -19.11
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "有色金属",
@@ -10568,11 +10569,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "华泰-李斌",
         "change": "0",
         "reason": "若双碳能够催化钢铁行业供给侧优化，钢价上行300元。电炉炼钢石墨电极吨钢消耗价值7-30元，所以我们认为若每涨100元其中让利给石墨，则300元的涨价可能会使石墨价格翻倍修复到2022年水平3-4万元销售单价，则吨净利润或修复到1.5万元/吨。20万吨的产量则形成30e的净利润预期。光伏未来若稳态在7-8e营收，则或形成1-2e净利润。26-30年核电石墨公司独家，预期累计净利润约18e，年均3.6e。综上所述，成功双碳执行的背景下，公司年化利润或达到约35e。考虑公司历史业绩释放年分红比例极高，我们预期分红有望超50%。此外，公司积极布局了核电、与宁德合作了固态电池电解质业务和半导体用碳素国产替代，我们认为PE 15X合理，对应市值525e。",
-        "base_price": 6.08,
-        "latest_price": 5.18,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -14.8
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "国防军工",
@@ -10582,11 +10583,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "银河-李良",
         "change": "新增",
         "reason": "面对商业航天和卫星互联网等新兴市场机遇，公司加快开展产业、产品布局调整和谱系拓展，有望受益于近期火箭技术突破和卫星密集组网",
-        "base_price": 21.45,
-        "latest_price": 14.58,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -32.03
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "银行",
@@ -10596,11 +10597,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国君-马婷婷",
         "change": "0",
         "reason": "一季度业绩稳健增长，资产质量保持平稳，维持高分红比例",
-        "base_price": 11.0,
-        "latest_price": 11.83,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": 7.55
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "金属与金属材料",
@@ -10610,11 +10611,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国信-王蔚祺",
         "change": "新增",
         "reason": "公司主产铅锌金银矿山，年副产铟金属40吨体量，具备高纯铟提纯技术储备，小金属中释放业绩股，估值偏低。",
-        "base_price": 35.3,
-        "latest_price": 22.7,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -35.69
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "煤炭公用",
@@ -10624,11 +10625,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "开源-王高展",
         "change": "新增",
         "reason": "公司为华东稀缺焦煤龙头，资源储备充足、煤种齐全煤质优良，销区优势明显，一体化布局，煤焦化协同发展。2026年公司信湖煤矿复产、新旧采场接替转换完成，并积极拓展省内外煤炭资源，预计公司2026年煤炭销量同比提升超10%。价格方面，受山西煤炭安全事故影响，全国煤矿安监形势或趋严，焦煤迎供给收缩转折点，煤价中枢中长期上移。公司煤炭业务2026年有望量价齐升，成本下降，业绩充分兑现。",
-        "base_price": 14.61,
-        "latest_price": 15.11,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": 3.42
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "交通运输",
@@ -10638,11 +10639,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "申万-闫海",
         "change": "0",
         "reason": "行业票价上行带动客流向高性价比航司倾斜，公司客座率显著提升；油价扰动下竞争优势进一步凸显，运力提升有望优化盈利。",
-        "base_price": 47.22,
-        "latest_price": 47.0,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -0.47
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "非银行金融",
@@ -10652,11 +10653,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "中信-中信证券-朱立伟、陆昊（非银金融）",
         "change": "新增",
         "reason": "看好券商行业受益资本市场深化改革与交投活跃度回升，公司财富管理转型持续推进，机构业务与投行业务协同发展。资管规模稳步扩张，自营投资能力稳健。当前板块估值处于历史低位，公司作为区域头部券商充分受益行业集中度提升，盈利修复与估值回归双重驱动。",
-        "base_price": 9.21,
-        "latest_price": 8.38,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -9.01
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电力设备",
@@ -10666,11 +10667,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "银河-曾韬",
         "change": "新增",
         "reason": "抢滩布局固态变压器(SST)",
-        "base_price": 58.58,
-        "latest_price": 37.98,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -35.17
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "钢铁有色",
@@ -10680,11 +10681,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "开源-孙二春",
         "change": "新增",
         "reason": "公司拥有采矿权 14 个，探矿权 4 个。2026 年增量是铁矿，2027年-2028增量是铜矿（玉龙铜矿三期）、铅锌矿（呷村银多金属矿扩产等），远期增量主要是铜矿（茶亭铜多金属矿，玉龙铜矿四期）",
-        "base_price": 26.51,
-        "latest_price": 38.44,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": 45.0
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "能源开采",
@@ -10694,11 +10695,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国联民生-周泰",
         "change": "新增",
         "reason": "公司膜厚系列产品、OCD设备、电子束设备等部分主力产品已完成7NM先进制程的交付及验收，目前更加先进制程的产品正在验证中。先进制程产品占公司整体营收和订单的比例不断增加，现已成为公司半导体前道量检测领域业绩的核心驱动力。BFI系列产品累计出货超7台套。产品已完成28NM制程产线的验收和14NM制程产线的交付（14NM制程产线目前验收等相关工作进展顺利，设备运行情况良好），面向更先进制程的设备正在研发中。面对2.5D/3D等先进封装挑战，公司现有前道量检测设备已全部导入先进封装产线。",
-        "base_price": 14.42,
-        "latest_price": 15.1,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": 4.72
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "通信",
@@ -10708,11 +10709,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "东方-张书铭",
         "change": "-1",
         "reason": "看好光模块产业趋势",
-        "base_price": 242.7,
-        "latest_price": 130.25,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -46.33
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "建筑",
@@ -10722,11 +10723,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国信-王剑",
         "change": "新增",
         "reason": "公司是半导体废气治理综合解决方案服务商，先进制程与3D结构升级推高电子特气需求，刻蚀等工序频次强度上升，废气治理体系“扩容提标”。公司高端认证过关，产能储备充足，在国产替代和海外需求爆发共同作用下，产品加速迭代验证，已获得可观进展，有望进入订单集中落地阶段。预测2026-2028年归母净利润0.7/2.0/3.6亿元。",
-        "base_price": 55.3,
-        "latest_price": 23.97,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -56.65
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "环保/综合",
@@ -10736,11 +10737,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "银河-陶贻功",
         "change": "新增",
         "reason": "碲化铋需求有望带动铋价上涨，公司为国内最大铋金属供应商",
-        "base_price": 19.65,
-        "latest_price": 12.61,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -35.83
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "轻工制造",
@@ -10750,11 +10751,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "中信-中信证券-朱立伟、李超(新材料)",
         "change": "新增",
         "reason": "特种纸行业供给端产能扩张放缓，环保政策趋严限制新增产能，食品包装与标签纸需求拉动特种纸景气上行。公司作为特种纸细分领域龙头，格拉辛纸、食品包装纸等产品线布局完善，成本优势显著。叠加公司海外产能释放与高端品类占比提升，估值处于历史低位，兼具周期弹性与成长确定性。",
-        "base_price": 28.45,
-        "latest_price": 19.61,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -31.07
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电力设备及新能源",
@@ -10764,11 +10765,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "中信-中信证券-朱立伟、林劼(新能源与电力设备)",
         "change": "新增",
         "reason": "光伏胶膜行业供给端产能扩张放缓，二三线厂商出清加速，行业竞争格局优化。公司作为全球光伏胶膜绝对龙头，EVA/POE 胶膜技术壁垒深厚，客户认证壁垒构筑护城河。",
-        "base_price": 16.43,
-        "latest_price": 14.67,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -10.71
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电子",
@@ -10778,11 +10779,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "银河-高峰",
         "change": "0",
         "reason": "业绩高速增长，基本面强劲支撑",
-        "base_price": 772.01,
-        "latest_price": 378.6,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -50.96
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "有色金属",
@@ -10792,11 +10793,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "中信-中信证券-朱立伟、涂耀廷(有色)",
         "change": "新增",
         "reason": "铜矿全球新增产能稀缺，TC/RC 加工费持续低位印证铜精矿紧缺。公司 TFM、KFM 双矿放量进入收获期，铜产量步入高增长通道；叠加钴价底部企稳与刚果(金)钴出口配额管控，\"铜+钴\"双轮驱动充分受益电气化与 AI 数据中心铜需求拉动。",
-        "base_price": 17.73,
-        "latest_price": 19.52,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": 10.1
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "基础化工",
@@ -10806,11 +10807,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "光大-叶倩瑜",
         "change": "新增",
         "reason": "1、国内领先的功能性食品配料生产商\n2、健康化趋势下，品类景气度较高\n3、产能释放、结构升级，布局高成长赛道",
-        "base_price": 26.0,
-        "latest_price": 21.95,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -15.58
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "基础化工",
@@ -10820,11 +10821,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "银河-王鹏",
         "change": "新增",
         "reason": "制冷剂价格高位探涨，含氟高分子材料量价齐升",
-        "base_price": 43.99,
-        "latest_price": 31.43,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -28.55
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电新",
@@ -10834,11 +10835,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "开源-殷晟路",
         "change": "新增",
         "reason": "全球户储及工商储市场需求旺盛，公司为行业龙头，海外占比及盈利能力位居行业前列，业绩增长确定性强。",
-        "base_price": 101.5,
-        "latest_price": 81.81,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -19.4
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "计算机",
@@ -10848,11 +10849,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "浙商-童非",
         "change": "新增",
         "reason": "1）基本盘：DDR5带动接口芯片量价齐升。2026Q1归母净利润8.47亿元，同比+61.3%。 毛利率飙至69.8%，创近年新高。 DDR5渗透率年末将达65%。 公司全球内存互连芯片份额36.8%，位居第一。\n2）新曲线：Retimer向Switch延伸。单台8卡AI服务器需8-16颗Retimer+2-4颗Switch。Retimer全球份额10.9%、位居第二，已送样PCIe 6.0。 Switch沿同源SerDes延伸，博通垄断、国产几近空白。 全球PCIe互连芯片市场2030年有望达78亿美元。\n3）长空间：CXL MXC卡位内存池化。公司2022年全球首发CXL 2.0 MXC，2025年入选CXL联盟首批合规供应商清单（三星、海力士均采用澜起MXC），并推出CXL 3.1 MXC送样。全球CXL互连芯片市场有望由2024年约430万美元增至2030年约17亿美元，CAGR约 170.2%，长期受益AI推理、长上下文和KV Cache带来的内存池化需求。",
-        "base_price": 315.89,
-        "latest_price": 204.9,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -35.14
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电子",
@@ -10862,11 +10863,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "光大-高宇洋",
         "change": "0",
         "reason": "1、公司是国内半导体刻蚀设备的领军企业，先进制程产品不断突破，多款新品持续放量\n2、随着我国先进制程产线的扩产，将持续受益于国产化带来的业绩增量",
-        "base_price": 462.0,
-        "latest_price": 344.0,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -25.54
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "通信",
@@ -10876,11 +10877,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "开源-蒋颖",
         "change": "0",
         "reason": "AI算力需求驱动盈利扩容，CPO/OCS趋势驱动光器件量价齐升，MPO/FAU多元布局打开成长空间",
-        "base_price": 433.0,
-        "latest_price": 278.0,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -35.8
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电子",
@@ -10890,11 +10891,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "东方-张书铭",
         "change": "0",
         "reason": "看好铜箔产业趋势",
-        "base_price": 16.2,
-        "latest_price": 15.79,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -2.53
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电子",
@@ -10904,11 +10905,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "招商-鄢凡",
         "change": "新增",
         "reason": "平台型薄膜沉积设备龙头，存储扩产与三维集成共振向上。\n1、产业趋势：长江存储、长鑫存储扩产趋势明确，国内存储扩产和工艺升级将持续拉动沉积设备需求，PECVD、ALD及沟槽填充设备需求有望持续扩容；\n2、沉积业务：PECVD累计出货反应腔持续提升，新型高产能平台适配先进制程需求；ALD多款PE-ALD设备量产规模提升，Thermal-ALD TiN产品完成客户验证，沟槽填充设备在稳定性和流片量上持续验证。\n3、三维集成：HBM、Chiplet和三维堆叠推动先进封装升级，公司围绕晶圆键合等环节延伸，混合键合设备已获得重复订单并实现量产，第二成长曲线逐步清晰。\n4、订单及交付：公司参股辽宁聚芯强化核心零部件配套，沈阳产业化基地聚焦高端薄膜沉积和三维集成设备扩产，有望匹配下游旺盛需求及在手订单交付。\n综上，我们继续看好拓荆科技作为国内薄膜沉积设备龙头，受益存储扩产、先进制程升级与国产替代共振，PECVD基本盘稳固，ALD及沟槽填充设备加速突破，混合键合打开三维集成新增量，公司中长期成长空间明确。\n❑风险提示：晶圆厂扩产不及预期，订单不及预期，新品研发不及预期风险。",
-        "base_price": 832.0,
-        "latest_price": 664.97,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -20.08
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电子",
@@ -10918,11 +10919,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "东吴-东吴-陈海进",
         "change": "新增",
         "reason": "需求上，国产GPU放量带动Drmos需求高速增长，下游各客户均加速国产替代导入，26-27年Drmos国产化正式开启。出货+份额二维叠加，先涨价/后缺货，重视Drmos国产机遇。\n供给端，海外Drmos产能紧张，交期延长，且现有产能集中供给海外GPU厂商，收缩国内份额。公司与国内GPU客户深度打磨多年，此前Drmos产品已批量出货量头部客户，卡位优势巨大，格局清晰。看好公司凭借成熟产品储备，成为#国内Drmos领先供应商。",
-        "base_price": 148.54,
-        "latest_price": 114.11,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -23.18
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电子",
@@ -10932,11 +10933,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "申万-杨海晏",
         "change": "新增",
         "reason": "以国产定制ASIC芯片为核心高弹性业务；随着手机SoC及ASIC产品的商业化推进，业务规模有望逐步扩大。",
-        "base_price": 120.0,
-        "latest_price": 93.69,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -21.93
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "国防军工",
@@ -10946,11 +10947,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国海-赵博轩",
         "change": "新增",
         "reason": "①2025Q4收入同比大增365%，毛利率水平有所波动。\n②2025年期间费用率同比减少31.57pct至9.5%，重视研发投入。\n③新签重大销售合同；2026年关联交易预计额度同比提升较大或反映下游需求较为景气。",
-        "base_price": 42.48,
-        "latest_price": 40.76,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -4.05
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电子",
@@ -10960,11 +10961,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "东方-张书铭",
         "change": "0",
         "reason": "先进制程低估标的",
-        "base_price": 315.61,
-        "latest_price": 237.9,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -24.62
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电子",
@@ -10974,11 +10975,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "光大-赵乃迪",
         "change": "新增",
         "reason": "1、26Q1业绩显著改善，公司高世代蒸发源订单具备可持续性\n2、钙钛矿业务布局持续推进，商业航天打开应用空间\n3、材料业务多线推进，封装及PSPI材料有望在2026年实现放量",
-        "base_price": 59.76,
-        "latest_price": 35.58,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -40.46
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "通信",
@@ -10988,11 +10989,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国海-张建民",
         "change": "新增",
         "reason": "①是本土封装装备优质标的，处于向先进封装突围的拐点。\n②新型显示设备加快落地。\n③公司积极扩充产能、储备交付能力。",
-        "base_price": 184.28,
-        "latest_price": 94.0,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -48.99
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电子",
@@ -11002,11 +11003,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "东方-张书铭",
         "change": "0",
         "reason": "看好靶材对日替代",
-        "base_price": 88.08,
-        "latest_price": 41.31,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -53.1
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "国防军工",
@@ -11016,11 +11017,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "东方-张书铭",
         "change": "0",
         "reason": "昇腾产业链景气度上升",
-        "base_price": 180.55,
-        "latest_price": 137.9,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -23.62
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "机械设备",
@@ -11030,11 +11031,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "东吴-东吴-陈海进",
         "change": "0",
         "reason": "",
-        "base_price": 497.27,
-        "latest_price": 325.23,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -34.6
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "计算机",
@@ -11044,11 +11045,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "开源-张越",
         "change": "0",
         "reason": "AI Infra核心标的，受益于信创及算力基础设施建设",
-        "base_price": 246.06,
-        "latest_price": 238.95,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -2.89
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "通信",
@@ -11058,11 +11059,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "申万-郝知雨",
         "change": "0",
         "reason": "国内稀缺交换芯片厂商，高端产品对标海外，受益于AI超节点浪潮与国产化替代，成长空间可观。",
-        "base_price": 380.52,
-        "latest_price": 342.29,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -10.05
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "军工",
@@ -11072,11 +11073,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国君-杨天昊",
         "change": "新增",
         "reason": "宇航电源龙头受益商业航天发展，军队现代化建设驱动特种电源需求",
-        "base_price": 73.18,
-        "latest_price": 43.17,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -41.01
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电子",
@@ -11086,11 +11087,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "中信-中信证券-朱立伟、王子源(电子)",
         "change": "新增",
         "reason": "成熟制程产能持续紧张，AI 算力与端侧 AI 拉动逻辑芯片需求，DDIC、CIS、PMIC 等品类价格向好。国产替代背景下公司 12 英寸产能扩张稳步推进，先进制程突破带动晶圆 ASP 结构性提升，作为大陆晶圆代工绝对龙头充分受益半导体国产化与 AI 产业链共振，估值处于历史低位。",
-        "base_price": 154.48,
-        "latest_price": 123.99,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -19.74
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "电子",
@@ -11100,11 +11101,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "国海-胡剑",
         "change": "0",
         "reason": "①电脑平板与工业汽车占比环比提升，中国区收入进一步集中。\n②产能持续提升，稼动率达93.1%。",
-        "base_price": 154.48,
-        "latest_price": 123.99,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -19.74
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "通信",
@@ -11114,11 +11115,11 @@ const GOLD_STOCK_DATA = {
         "analysts": "招商-罗嘉成",
         "change": "-1",
         "reason": "无源光器件小巨人，CPO卡位关键海外客户，核心产品进展顺利。\n1）技术覆盖芯片耦合、光纤阵列、柔性互连到连接器集成的各环节，是少数具备CPO配套产品开发与量产能力的供应商，卡位AFL、Coherent等海外光通信龙头。2）持续完善1.6T光模块产品类型布局，积极推动ELSFP保偏无源内连光器件、CPO无源内连光器件从小批量转向规模量产，有望受益于CPO产业化加速。\n❑ 风险提示：国际贸易摩擦风险、汇率波动风险、客户集中度风险、市场竞争加剧风险、技术升级风险、子公司管理风险、估值波动风险。",
-        "base_price": 593.0,
-        "latest_price": 226.9,
-        "currency": "CNY",
-        "base_date": "20260701",
-        "change_pct": -61.74
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
       },
       {
         "industry": "互联网",
@@ -11128,16 +11129,1334 @@ const GOLD_STOCK_DATA = {
         "analysts": "国信-胡慧/叶子",
         "change": "新增",
         "reason": "国产算力四小龙之一，且是其中唯一拿到CSP大额订单的芯片厂商（字节拟采购不少于5万颗智铠芯片）。天数智芯主打通用GPGPU、高度兼容英伟达CUDA生态，迁移成本低，且实现训练、推理双产品线大规模量产。2026年7月18日预计在WAIC大会发布新产品， 具备事件催化。",
-        "base_price": 764.0,
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": null
+      }
+    ],
+    "2026-08": [
+      {
+        "industry": "电新",
+        "code": "300750.SZ",
+        "name": "宁德时代",
+        "count": 7,
+        "analysts": "华泰-刘俊, 国君-徐强, 光大-殷中枢, 东吴-东吴-曾朵红, 银河-曾韬, 浙商-邱世梁、汪成, 华创-电新-张一弛",
+        "change": "5",
+        "reason": "3年维度20%~30%的增长中枢，在2027E 15x PE下已具备估值吸引力。国内成品油消费量低迷侧面反映广义商用车电动化渗透率提升超预期，宁德份额更高的商用车板块可能超预期。车船税复征与电池消费税两只靴子落地，下行风险小。我们预计2026-2028年营收为6080.82/7416.90/8972.28亿元、归母净利润为951.86/1161.79/1405.81亿元，归母净利润增速为31.83/22.06/21%，对应EPS为20.57/25.11/30.38元、对应PE为18.62/15.25/12.61倍。后续催化剂包括国内大储项目下半年集中启动；海外AI配储订单落地。 | 锂电需求稳中向好，高产能利用率与在建产能规模彰显信心 | 全球动力电池龙头地位稳固，在新能源车渗透率提升及全球储能需求高景气的背景下，公司有望持续受益，建议重点关注 | 宁德时代26Q2业绩符合预期、回购彰显信心。公司26H1营收2769亿元，同比+55%，归母净利432.8亿元，同比+42%，扣非净利390.1亿元，同比+43%，毛利率23.9%，同比-1.1pct；其中26Q2营收1478亿元，同环比+57%/+14%，归母净利225.5亿元，同环比+36%/+9%，扣非净利209.2亿元，同环比+36%/+16%，毛利率23.2%，同环比-2.4/-1.6pct，归母净利率15.3%，业绩符合预期。公司同步公告拟以200-400亿元回购股份，回购价格不超过573元/股，彰显公司长期发展信心。\n\n动储产销两旺、需求持续增长确定性强。26H1公司电池产量498GWh，同比+61%，销量434GWh，同比+61%，其中Q2销量230GWh，同环比+55%/+13%。拆分来看，我们预计26H1动力电池销量325GWh，同比+51%，其中Q2销量171GWh，同环比+47%/+11%；26H1储能电池销量109GWh，同比+102%，其中Q2销量59GWh，同环比+84%/+18%。产能端，26H1年化产能1050GWh，产能利用率94.9%，在建产能764GWh，将在1-2年投产。全年看，公司排产预计1.1-1.2TWh，对应出货约1000GWh，同比增长50%，其中储能占比25%+。展望27年，公司排产预计1.6-1.7TWh，对应确收有望达1.2-1.3TWh，并预测未来5年年复合增长20-30%，需求韧性强。份额方面，公司全球动力份额40%+，国内装车份额46.7%，海外份额33.7%，同比+4pct。储能电池出货位列全球第一。\n\n规模化对冲成本压力、总体单位盈利基本稳定。26H1动力电池收入1921亿元，同比+46%，均价0.67元/Wh，环比提升约4%，传导成本上涨；毛利率20.6%，同环比-2p/-4ct；单Wh毛利0.12元，同环比下降约-10%，单Wh利润0.074元，同比基本持平；其中Q2动力均价0.68元/Wh，环比Q1提升约4%，盈利维持稳定。储能方面，26H1收入533亿元，同比+88%，均价0.55元/Wh，环比持平微降，主要受产品结构影响；毛利率24.0%，同环比-1.5/-4pct，单Wh毛利0.12元，同环比下降10%+。整体看，原材料成本阶段性上涨，毛利率略有影响，但规模化对冲，盈利韧性强，单wh净利0.1元，单wh扣非0.09元，维持稳定。\n\n电池材料及其他业务业绩增长明显。26H1电池材料回收及矿产资源收入188亿元，同比+138%，毛利率27%，同比+1pct，主要受益金属价格及资源循环业务改善，预计贡献40亿利润，同比+167%。其他业务26H1收入127亿元，同比+66%，毛利率69%，预计贡献68亿利润，同比+60%。\n\n投资建议：预计公司26-28年归母净利润962/1215/1469亿元，同比+33%/+26%/+21%，对应PE为18/15/12x，给予27年25x PE，目标价约656元，维持“买入”评级。\n\n风险提示：电动车销量不及预期；市场竞争加剧；原材料价格波动；产业链议价权变化风险。 | 旺季到来，龙头领涨 | 穿越周期的全球龙头，受益动储双增。\n一、超预期逻辑\n市场担忧：动力电池行业竞争加剧，电池价格下行可能压制盈利，后续需求增长持续性仍需验证。\n我们认为：1、短期端：公司全球及海外动力电池份额持续提升，电池系统产能利用率保持高位，订单和流动性表现稳健。随着下半年进入排产旺季，公司作为头部电池厂有望充分受益需求放量，业绩增长具备较强确定性。\n2、中长期端：动力电池方面，公司持续推进主力产品性能升级，并开拓商用车、无人场景等增量市场；储能电池方面，公用事业、工商业、数据中心等应用前景广阔。动储需求共振下，公司中长期成长空间仍然充足。\n二、检验与催化\n下半年排产旺季兑现；动力电池全球市占率继续提升；产能利用率维持高位；储能系统交付放量；海外产能建设推进；商用车、无人场景、低空、船舶、换电等新领域拓展。 | 动力电池龙头，市占率和销量持续领跑全球，26年公司将继续发力储能和海外市场，扩产也将带动市场份额进一步提升",
+        "base_price": 395.3,
+        "latest_price": 395.3,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "有色金属",
+        "code": "601899.SH",
+        "name": "紫金矿业",
+        "count": 6,
+        "analysts": "国君-李鹏飞, 光大-王招华, 东吴-东吴-刘奕町, 东方-张书铭, 银河-华立, 华创-金属-李梦娇",
+        "change": "4",
+        "reason": "量价齐升业绩高增，金铜锂放量共振可期 | 行业：矿端扰动仍在，铜矿供应难以放量；数据中心、储能等新兴需求增速较快，看好铜价继续上行。降息周期叠加，继续看好金价上行。公司：铜、黄金产量仍将维持稳定增长 | 公司2026年上半年实现归属于上市公司股东的净利润约391亿元，同比大幅增长68%；其中Q2预计实现归母190.21亿元，环比/同比为-5%/+45%，基本符合预期。金、铜、锌、银等优势矿种稳健增长，锂作为“第三增长极”亦已形成规模贡献，叠加钼、钨、锡以及硫精矿、硫酸显著增收，助推公司业绩稳健高增。公司铜金锂三架马车齐驱——锂板块高斜率跃升成为利润引擎，并购金矿放量+降本，铜板块稳增奠基，叠加沙坪沟钼矿期权，周期+成长兼具。估算公司26/27/28归母净利润至852/1043/1295e，对应PE 8.5/7/5.6x，积极布局。 | 看好铜beta | 因智利冬季风暴致多家头部矿企减产停产，铜矿供应紧张加剧，叠加美国232铜关税调查建议精炼铜阶梯加税引发美国市场精铜虹吸效应持续，铜矿短缺或向精铜传导使国内精铜社会库存在淡季继续下降，有望推动铜价继续上涨 | 全球矿业龙头，成本管控能力强，公司金、银、铜、锂等产量持续稳步上升，增长空间明确且具有较长可持续性，看好公司长期投资价值",
+        "base_price": 32.95,
+        "latest_price": 32.95,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "医药",
+        "code": "603259.SH",
+        "name": "药明康德",
+        "count": 5,
+        "analysts": "国信-彭思宇/陈曦炳, 东方-张书铭, 中泰-崔少煜, 银河-程培, 浙商-郭双喜",
+        "change": "3",
+        "reason": "全球一体化 CRDMO 龙头，全产业链构筑客户壁垒，在手订单充足支撑业绩稳健。前瞻布局多肽、ADC 等高景气赛道；当前估值不到20x。 | CXO景气度提升 | Q2有望延续高增长，全年业绩强劲，外包龙头持续领航 | CXO龙头保持高景气，经营持续超预期 | CRDMO模式下业绩望持续超预期。\n一、超预期逻辑：领先CRDMO商业模式下，订单&业绩增长或持续超预期。\n①商业模式带来业绩增长持续性超预期。我们认为市场忽略了公司打造的小分子领域、全球稀缺的CRDMO商业模式，以及对协同业务（CDMO、测试业务、生物学）的订单导流能力。公司通过备受全球客户认可，国内最大的药物发现业务成功绑定大量前端客户订单，并不断将订单进一步向小分子CDMO、测试业务、生物学业务导流，这也有望实现超市场预期的可持续性的订单高增长。公司一直保持行业里面具有竞争力的订单增速验证了以上逻辑的确定性。\n②资本开支重回高位：2026年Capex预期重回高位，产能&订单共振下订单&业绩均有可能保持持续超预期。公司年报中提到：“公司持续推进小分子产能建设。2025年常州、泰兴及金山原料药基地均以零缺陷成功通过FDA现场检查。截至2025年末，小分子原料药反应釜总体积已提升至超4,000kL”、“2025年9月，提前完成泰兴多肽产能建设。公司多肽固相合成反应釜总体积已提升至超100,000L”。同时公司还披露：加速推进全球产能建设，预计2026年资本开支达到65-75亿元（2025年为55.4亿元），重回高位，在全球投融资持续底部情况下，公司仍坚持持续新建产能，我们认为这得益于公司领先的CRDMO模式的持续兑现能力，这也带来了订单更高的确定性和可持续性。",
+        "base_price": 128.43,
+        "latest_price": 128.43,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "电子",
+        "code": "002371.SZ",
+        "name": "北方华创",
+        "count": 4,
+        "analysts": "招商-鄢凡、王焱仟, 光大-高宇洋, 东吴-东吴-周尔双, 浙商-厉秋迪",
+        "change": "2",
+        "reason": "半导体设备平台型龙头，下游扩产带动营收持续增长\n1、产业趋势：AI驱动先进逻辑、高端存储及先进封装扩产，叠加国内晶圆厂设备国产化加速，刻蚀、薄膜沉积及热处理设备需求有望持续增长。\n2、核心设备：公司刻蚀、薄膜沉积、热处理及湿法清洗设备已形成规模化竞争力，ICP、CCP及PVD、ALD等品类优势突出，在国内持续放量。\n3、新品突破：离子注入、电镀及键合设备陆续实现产业化，产品矩阵持续扩张。\n4、收购芯源微：公司补齐涂胶显影环节及清洗设备品类，进一步拓宽产品覆盖范围，强化全品类设备平台优势。\n综上，我们继续看好北方华创受益先进制程升级、存储扩产及国产替代，主力设备市场份额持续提升，新品逐步落地，收购芯源微进一步完善产品矩阵、强化平台化竞争优势。\n❑ 风险提示：下游晶圆厂扩产不及预期，晶圆厂产能利用率下滑的风险，新品研发不及预期，行业竞争加剧的风险。 | 公司为半导体设备平台型公司龙头，持续受益于国产化进程 | 一、超预期逻辑\n市场担忧：半导体设备行业毛利率下滑，市场竞争加剧，成长空间有限。\n我们认为:1、需求端：AI浪潮持续推进，本土算力/存力需求快速成长，有望推动晶圆厂扩产超预期。2、供给端：本土半导体设备企业已基本形成稳定格局，属于半导体产业链上话语权较强的细分赛道，中长期来看行业格局会继续向集中度提升的方向靠拢。\n二、催化剂\n晶圆厂扩产节奏超预期；公司盈利能力改善超预期；半导体设备国产化进程超预期；海外半导体管制政策收紧超预期等",
+        "base_price": 687.0,
+        "latest_price": 687.0,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "非银金融",
+        "code": "600030.SH",
+        "name": "中信证券",
+        "count": 4,
+        "analysts": "国君-刘欣琦, 东吴-东吴-孙婷, 东方-张书铭, 银河-张琦",
+        "change": "2",
+        "reason": "看好公司2026年业绩弹性，电力业务提供稳健盈利 | 预计各业务条线全面增长：\n1）2026H1，A股市场活跃度继续大幅提升，日均股基交易额3.3万亿元，同比增长99%，2026H1两融余额3万亿元，同比增长65%，较年初增长20%。\n2）股权融资方面，双创IPO显著回暖。公司2026H1境内发行规模排名行业1，其中 IPO 9家，募资218亿元，科创板IPO承销额位居全市场第一 。再融资（增发、配股）发行8家，募资310亿元。IPO储备数居前，A股在审项目51家，排名行业第1。\n3）业绩大幅增长的主因主要是由于公司跟投业务随着双创板上涨，实现较高超额收益，如公司保荐的联讯仪器、臻宝科技等于2Q上市。3Q宇树科技IPO在即，公司持股0.89%，预计将继续带来较高直投收益。 | 券商：兼具“筹码干净+业绩确定性高+估值低” | 行业绝对龙头，业务板块均衡发展，半年报业绩高增",
+        "base_price": 28.43,
+        "latest_price": 28.43,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "家电",
+        "code": "000333.SZ",
+        "name": "美的集团",
+        "count": 3,
+        "analysts": "国信-陈伟奇, 中泰-吴嘉敏, 华创-家电-韩星雨",
+        "change": "新增",
+        "reason": "家电行业板块整体已于Q2基本面触底，后续将迎来一年期边际改善，美的集团作为家电行业业绩最稳健公司，高分红，低估值，高股息，有望在板块再平衡中迎来持续估值修复。 | 有技术面基本面支撑的龙头、短期胜率高 | 家电行业全品类龙头，多元业务齐头并进，B端和海外自主品牌有望拓宽公司成长边界，作为高股息白马龙头，长期发展信心充足",
+        "base_price": 87.6,
+        "latest_price": 87.6,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "化工",
+        "code": "000893.SZ",
+        "name": "亚钾国际",
+        "count": 3,
+        "analysts": "中信-中信证券-朱立伟、孙臣兴(化工), 中泰-曹惠, 华创-化工-孙维容",
+        "change": "新增",
+        "reason": "钾肥景气与老挝项目放量共振。小东布产线于2025年末投产，带动2026年上半年产销量同比提升；国内外钾价上行抬升吨毛利，公司预告上半年归母净利润12.85—15.00亿元、同比增长50%—75%。后续看新增产能爬坡与销售兑现，主要风险为钾价回落和项目投产不及预期。 | 量价齐升驱动业绩高增，产能扩张锚定长期成长 | 快速崛起的国际化钾肥新秀，全球供需偏紧钾肥高景气度有望延续，随着300万吨产能有序释放，业绩成长性可期",
+        "base_price": 51.86,
+        "latest_price": 51.86,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "通信",
+        "code": "300308.SZ",
+        "name": "中际旭创",
+        "count": 3,
+        "analysts": "招商-罗嘉成, 东吴-东吴-张良卫, 华创-通信-于一铭",
+        "change": "0",
+        "reason": "光模块龙头，物料准备充分，下游需求强劲，Scale up光互联也将带来新增量。1）下游需求持续提升及物料准备充分，硅光及1.6T光模块出货比例保持提升，为26全年交付做好充分准备，预计全年业绩增长强劲；2）英伟达、Google等27年光模块需求强劲，公司产能扩张速度领先同行，物料储备充分，有能力保障下游高增需求的产品交付，27年增长乐观，28年景气度可见延续；3）scale-up需求是scale-out的10倍，公司NPO产品进展顺利，有望在未来2-3年持续贡献业绩。\n❑ 风险提示：下游市场需求不及预期、高端产品价格不及预期、原材料价格波动的风险、市场竞争加剧、全球贸易摩擦加剧等。 | 短期扰动性落地，板块有望迎来一波反弹。市场此前担忧流动性风险和叙事风险，近期反应也比较充分，但目前随着海内外市场杠杆的下降+叠加科技巨头上市落地，标的已回归至合适价位，此外海外CSP完成财报及资本开支指引等预期披露，整体符合预期，aws明确给出长达3年的算力高景气判断。\n光模块是科技硬件板块中，最具确定性的是“量增”逻辑主导的细分环节，龙头优势明显\n大光近期受流动性影响较大，作为板块行情风向标，未来业绩确定性和支撑度最高，若板块出现反弹，大光将最先反应。 | 全球高速光模块龙头，技术和市场优势明显，把握AI发展趋势，扩大高端产能，业绩高速成长可期",
+        "base_price": 902.01,
+        "latest_price": 902.01,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "计算机",
+        "code": "000977.SZ",
+        "name": "浪潮信息",
+        "count": 2,
+        "analysts": "招商-刘玉萍, 浙商-刘雯蜀",
+        "change": "0",
+        "reason": "需求端看，当前AI算力行业竞争已从单卡服务器迭代至高密度集群算力时代，相较于传统服务器，超节点单机柜价值量、毛利率显著提升，叠加液冷技术、高速互联架构的加持，完美适配头部互联网大厂、政企智算中心的大模型训练算力需求。2026年下半年，国产算力产业正全面聚焦超节点架构，迎来从技术验证迈向规模化商用的关键拐点。\n下半年国产算力超节点开启交付，浪潮信息与下游csp厂商保持紧密合作，超节点设计标与量产标市场份额国内第一。此外，公司依托山东省国资委，产能扩张更具备优势。公司存货充沛，依然能享有存活涨价红利。\n❑ 风险提示：超节点出货不及预期；原材料价格进一步上涨。 | H1业绩大幅超预期，国内AI服务器龙头高增长兑现。\n一、H1业绩大幅超预期，国内AI服务器龙头高增长兑现\n浪潮信息预计2026H1归母净利润26.00–31.00亿元，同比+226%–288%；扣非归母净利润20.55–25.55亿元，同比+206%–280%。#2026Q2单季度归母净利润约19.95–24.95亿元，同比+494%–643%，环比+230%–313%；扣非归母净利润约14.65–19.65亿元，同比+499%–703%，环比+148%–233%。根据行业整体情况，我们判断公司业绩超预期主要因为：1）CSP的CAPEX持续增长，AI服务器需求旺盛；2）推理需求带动传统服务器需求提升；3）在供给紧张阶段，头部厂商议价力提升带来的利润率增长等。\n二、戴尔AI服务器指引上修、联想项目储备高位、HPE订单与积压订单改善，AI基建需求正在持续外溢\nAI服务器订单与积压订单仍是业绩高可见度来源。戴尔AI服务器收入161亿美元，同比+757%，Q1末AI积压订单达513亿美元，并将FY27 AI服务器收入指引上调至约600亿美元；联想AI服务器项目储备达210亿美元。浪潮信息H1业绩高增，进一步说明AI服务器需求并非单点景气，而是在全球头部整机厂与国内服务器龙头中同步兑现。\n传统服务器需求被AI推理与智能体应用重新拉动。戴尔传统服务器与网络收入同比+92%；HPE传统服务器订单同比三位数增长。我们认为，推理负载、Agent工作流、企业私有化部署会同步带动CPU服务器、内存、存储、本地数据基础设施扩容，传统服务器需求有望迎来重估。\n网络、存储、私有云成为AI落地的配套刚需。HPE网络业务收入同比+148.2%；HPE Alletra MP存储平台订单同比三位数增长。AI集群建设正在从“服务器采购”扩展为“服务器+网络+存储+私有云+运维平台”的系统化建设，网络与数据基础设施有望成为AI基建第二增长曲线。\n头部整机厂上下游议价力均提升，整机厂商壁垒从单机制造升级为机架级交付能力。头部整机厂商具备综合服务能力，在供给紧张及需求快速放量阶段有望持续受益。",
+        "base_price": 71.81,
+        "latest_price": 71.81,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "机械",
+        "code": "002353.SZ",
+        "name": "杰瑞股份",
+        "count": 2,
+        "analysts": "中信-中信证券-朱立伟、董博源(机械), 光大-陈佳宁",
+        "change": "0",
+        "reason": "传统油服订单增长叠加AIDC供电打开新成长曲线。2026年一季度营收32.91亿元、净利润5.89亿元，分别同比增长22.5%、23.4%；7月子公司获约99.5亿元燃机发电机组订单，占2025年营收61.3%，验证海外数据中心供电能力。风险为2027年前交付、供应链及汇率波动。 | 北美数据中心建设带动燃气轮机需求提升，公司近期接连斩获北美AI巨头超亿元燃气轮机发电机组订单，并与西门子、贝克休斯、川崎重工等海外燃气轮机制造商签订合作协议，锁定重要机头资源，未来电力板块有望为公司打造第三增长曲线",
+        "base_price": 134.7,
+        "latest_price": 134.7,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "化学制药/生物制品",
+        "code": "1801.HK",
+        "name": "信达生物",
+        "count": 2,
+        "analysts": "东吴-东吴-朱国广, 华创-医药-郑辰",
+        "change": "1",
+        "reason": "中国领先的生物制药公司，创新管线全球竞争力强，多项合作落地助力国际化进程全面提速，公司迈入盈利新纪元，综合产品线贡献新增长",
+        "base_price": null,
         "latest_price": null,
         "currency": "HKD",
-        "base_date": "20260701",
+        "base_date": "20260801",
         "change_pct": null
+      },
+      {
+        "industry": "非银金融",
+        "code": "2328.HK",
+        "name": "中国财险",
+        "count": 2,
+        "analysts": "国信-孔祥, 中泰-葛玉翔",
+        "change": "新增",
+        "reason": "国内产险行业龙头，市占率优势稳固。2025年中国财险保费市占率约32%，超过平安产险与太保产险市占率之和。强大的精细化管理能力，带来稳定的承保盈利水平。2026Q1公司综合成本率为94.2%，同比-0.3pct。新能源车险增长迅速，非车险受益于落实“报行合一”和“见费出单”有望提升承包盈利水平。投资方面FVTPL权益占比低，波动可控。 | 资金回流港股红利的首选标的，港股通持股量迭创新高，低利率环境进一步强化投资逻辑。",
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": "20260801"
+      },
+      {
+        "industry": "电子",
+        "code": "300604.SZ",
+        "name": "长川科技",
+        "count": 2,
+        "analysts": "东吴-东吴-周尔双, 华创-电子-岳阳/张文瑶",
+        "change": "0",
+        "reason": "国产半导体测试设备平台型龙头，正处于高端测试机放量、产品结构升级的业绩加速释放期",
+        "base_price": 259.64,
+        "latest_price": 259.64,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "机械",
+        "code": "301377.SZ",
+        "name": "鼎泰高科",
+        "count": 2,
+        "analysts": "申万-王珂/苏萌, 华创-机械-范益民",
+        "change": "新增",
+        "reason": "钻针行业龙头，产能及扩产速度全球第一，全球市场份额29%，最大程度受益于AI PCB材料迭代和层数升级。 | 全球PCB钻针领先企业，深度受益AI产业趋势，并逐步拓展数控刀具、自动化设备及功能性膜等成长性较好业务，未来成长空间可期",
+        "base_price": 350.1,
+        "latest_price": 350.1,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "公用事业",
+        "code": "600795.SH",
+        "name": "国电电力",
+        "count": 2,
+        "analysts": "中信-中信证券-朱立伟、邱基淳(公用事业), 银河-陶贻功",
+        "change": "新增",
+        "reason": "高股息底仓叠加水电投产成长。公司承诺2025—2027年分红率不低于60%、每股派现不低于0.22元；大渡河双江口等项目投产提升水电占比，长协煤高覆盖与容量电价增强火电盈利稳定性。短期需关注来水、电价与煤价波动，资产注入进度是估值催化。 | 看好8月用电负荷持续增长，火电整体有望受益。公司长协煤占比高，煤价上涨周期成本有优势",
+        "base_price": 5.08,
+        "latest_price": 5.08,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "银行",
+        "code": "600926.SH",
+        "name": "杭州银行",
+        "count": 2,
+        "analysts": "国信-王剑, 银河-张一玮",
+        "change": "新增",
+        "reason": "公司征信类业务占比高，主要经营区浙江，浙江区域红利显著，贷款规模延续高增，且资产质量优质，业绩延续10%+增速，业绩高确定标的，目前具备性价比。 | 中报披露窗口期，关注盈利改善",
+        "base_price": 16.45,
+        "latest_price": 16.45,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "电子",
+        "code": "688981.SH",
+        "name": "中芯国际",
+        "count": 2,
+        "analysts": "光大-付天姿, 银河-高峰",
+        "change": "1",
+        "reason": "受益于AI算力需求与国产替代的确定性趋势，看好公司产能释放和技术升级带来业绩持续改善 | 晶圆代工龙头，成熟制程满产，高端节点持续领先",
+        "base_price": 123.99,
+        "latest_price": 123.99,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "汽车",
+        "code": "000338.SZ",
+        "name": "潍柴动力",
+        "count": 1,
+        "analysts": "华创-汽车-张程航",
+        "change": "-1",
+        "reason": "重卡产业链龙头，主业稳健发展，AIDC电源加速放量，公司业绩有望持续较快增长",
+        "base_price": 27.95,
+        "latest_price": 27.95,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "家电",
+        "code": "000651.SZ",
+        "name": "格力电器",
+        "count": 1,
+        "analysts": "光大-洪吉然",
+        "change": "0",
+        "reason": "低估值以及高股息的空调龙头企业；晶弘空调补齐质价比需求拼图且具备扩张潜力；2026年国补延续有利于空调行业延续增长趋势",
+        "base_price": 42.3,
+        "latest_price": 42.3,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "食品饮料",
+        "code": "000729.SZ",
+        "name": "燕京啤酒",
+        "count": 1,
+        "analysts": "光大-陈彦彤",
+        "change": "新增",
+        "reason": "公司推出高端新品A10完善矩阵，核心大单品U8销量高增、全国化扩张提速。国企改革红利持续释放，盈利水平仍有较大提升空间。公司推进“一核两翼”战略，纳豆、倍斯特等多元业务发力，打造第二增长曲线",
+        "base_price": 12.92,
+        "latest_price": 12.92,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "汽车",
+        "code": "000951.SZ",
+        "name": "中国重汽",
+        "count": 1,
+        "analysts": "中泰-白臻哲",
+        "change": "新增",
+        "reason": "重卡出口龙头，受益于重卡出口高景气",
+        "base_price": 23.21,
+        "latest_price": 23.21,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "有色金属",
+        "code": "000960.SZ",
+        "name": "锡业股份",
+        "count": 1,
+        "analysts": "东方-张书铭",
+        "change": "0",
+        "reason": "看好锡",
+        "base_price": 34.1,
+        "latest_price": 34.1,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "有色金属",
+        "code": "000975.SZ",
+        "name": "山金国际",
+        "count": 1,
+        "analysts": "华泰-李斌",
+        "change": "0",
+        "reason": "26年自产金和外延并购预期 矿产金有望增至9-10t，27年有望扩至14-15t。对应归母65、100e。估值11x、7x，严重低估。",
+        "base_price": 23.38,
+        "latest_price": 23.38,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "基础化工",
+        "code": "002001.SZ",
+        "name": "新和成",
+        "count": 1,
+        "analysts": "华泰-庄汀洲，张雄",
+        "change": "新增",
+        "reason": "蛋氨酸旺季临近及企业挺价有望保持相对高价，己二腈增量项目在即，市场再平衡配置需求下推荐配置低估值成长性化工龙头。",
+        "base_price": 30.01,
+        "latest_price": 30.01,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "电子",
+        "code": "002008.SZ",
+        "name": "大族激光",
+        "count": 1,
+        "analysts": "招商-鄢凡、涂锟山",
+        "change": "0",
+        "reason": "平台型激光设备龙头，迎接新一轮AI终端+算力高质量成长。\n1、AI端侧： 苹果AI硬件创新加速带动设备投资，大族3D打印核心卡位打开成长空间。\n2、算力PCB： 下游算力PCB加速扩产及技术升级，PCB业务进入新一轮高端化升级周期。\n3、光纤：子公司Coractive及光纤专利储备丰富，看好公司光纤业务超预期突破进展。\n4、玻璃基板：产业化落地有望加速，超级激光设备卡位TGV核心环节。\n5、液冷：收购液冷方案商安腾创新，有望与现有激光和3D打印设备协同打开液冷业务新空间。\n综上，我们看好激光龙头迎接新一轮高质量成长，苹果创新与3D 打印、PCB推动主业向上，以及在光纤、玻璃基板、液冷等赛道有前瞻卡位优势，公司具有超预期兑现潜力。\n❑风险提示：AI发展不及预期、下游景气度低于预期、大客户创新低于预期、技术研发低于预期、市场竞争加剧。",
+        "base_price": 84.51,
+        "latest_price": 84.51,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "轻工",
+        "code": "002078.SZ",
+        "name": "太阳纸业",
+        "count": 1,
+        "analysts": "浙商-史凡可",
+        "change": "新增",
+        "reason": "高端箱板提价受益，林浆纸一体化壁垒深厚，底部利润+成长增量双轮驱动。\n一、超预期逻辑\n1）箱板淡季提价兑现、旺季仍有空间：箱板/瓦楞自2-7月累计提涨300元+/吨，为22年以来首次淡季持续涨价；国内扩产接近尾声、进口依赖度由约15%降至约10%，供需改善叠加美废/能源成本抬升，进口纸冲击减弱，7-11月旺季纸价仍有上行基础。理文26H1业绩预告已验证箱板盈利释放。\n2）高端牛卡+自给浆决定弹性：太阳箱板产能约440万吨，高端牛卡占比超70%（山东/老挝基地超90%），以木片/自制浆为核心原料，本轮“纸价与国废同涨”下低端箱板吨利扩张有限，高端牛卡利润弹性更强；自给浆+低折旧/低财务费用构筑行业领先吨净利，本轮盈利兑现确定性高。\n3）成长兑现清晰，底部利润抬升：颜店60万吨化学浆+70万吨包装纸预计26Q3/Q4投产、27年充分释放，浆自给率有望提升至70%+；南宁50万吨本色化学浆+60万吨特种纸27年接续落地；老挝林地持续扩建，单产逐步优化，木片自给提升。此外公司发布股权激励26-28年扣非目标35.1/38.3/41.5亿元，彰显管理层信心。",
+        "base_price": 14.56,
+        "latest_price": 14.56,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "通信",
+        "code": "002281.SZ",
+        "name": "光迅科技",
+        "count": 1,
+        "analysts": "国君-余伟民",
+        "change": "0",
+        "reason": "定增项目顺利落地，光连接及高速光传输新增产能逐步释放",
+        "base_price": 161.65,
+        "latest_price": 161.65,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "交通运输",
+        "code": "002352.SZ",
+        "name": "顺丰控股",
+        "count": 1,
+        "analysts": "国信-罗丹",
+        "change": "新增",
+        "reason": "顺丰控股是国内物流龙一，盈利能力修复将逐步兑现，公司今年扣非归母净利有望实现15-20%的较快增长，且确定性较高，2026年PE估值仅约15倍，向下风险低，具有抗跌属性以及左侧布局价值。",
+        "base_price": 34.99,
+        "latest_price": 34.99,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "基础化工",
+        "code": "002409.SZ",
+        "name": "雅克科技",
+        "count": 1,
+        "analysts": "申万-宋涛",
+        "change": "0",
+        "reason": "半导体前驱体产品与国内外主要存储厂商保持合作，存储行业扩产带来增量空间；公司围绕光刻胶等电子材料进行平台化和全球化布局。",
+        "base_price": 133.8,
+        "latest_price": 133.8,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "电子",
+        "code": "002415.SZ",
+        "name": "海康威视",
+        "count": 1,
+        "analysts": "国信-胡慧/叶子",
+        "change": "新增",
+        "reason": "已从安防龙头走向智能物联龙头，经过经营调整，归母净利润连续6个季度增加，毛利率7个季度趋势性上涨，经营质量提升，原材料成本上升背景下二季度归母净润环比增长83.9%，龙头定价能力体现；AI大模型产品上半年相比25年全年收入增长50%，具备AI落地物理世界的技术能力、数据积累及制造规模优势，有望成为AI物理应用的龙头公司，26年PE不到20倍，具备配置价值。",
+        "base_price": 37.65,
+        "latest_price": 37.65,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "机械设备",
+        "code": "002475.SZ",
+        "name": "日联科技",
+        "count": 1,
+        "analysts": "招商-郭倩倩",
+        "change": "-2",
+        "reason": "工业X射线检测设备龙头，内生+外延打造检测平台。\n国内工业X射线检测设备龙头，凭借国内首款封闭式微焦点X射线源打破进口垄断。受益下游PCB、新能源高景气+设备高端化+国产替代，预计今年主业有望维持快速增长。\n同时，公司通过外延并购补全检测技术平台，包括超声波、可见光、激光红外等，提升单客户产品价值量+增强客户粘性。随着标的持续整合以及协同效应释放，有望持续为公司贡献增量收入，进一步打开成长空间。\n❑风险提示：下游资本开支不及预期，新产品、新客户拓展不及预期，并购整合不及预期，行业竞争加剧。",
+        "base_price": 57.48,
+        "latest_price": 57.48,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "电子",
+        "code": "002475.SZ",
+        "name": "立讯精密",
+        "count": 1,
+        "analysts": "招商-鄢凡",
+        "change": "0",
+        "reason": "1、消费电子方面，立讯仍是苹果产业链中具备全球产能布局能力和优秀成本效率的优秀代表，苹果Apple Intelligence升级仍值得期待，折叠机、AI耳机、XR等新终端和光学、结构件等多方面的零部件创新公司仍在全面参与，公司对和硕手机、闻泰Mac和Qorvo射频模组等资产的整合和效率提升仍有空间，公司维持中长线苹果业务稳健增长仍无虑；非A消费电子部分，公司以“场景生态、AI赋能、全球协同”三位一体战略和以“垂直整合+场景创新”双轮驱动，在OEM和ODM领域完成从零部件到系统方案的全链条突破。\n2、通信业务方面，公司持续深耕电连接、光连接、风冷/液冷散热、电源管理、射频等产品，以“应用一代，开发一代，预研一代”为产品核心战略，构建起强大的技术壁垒和市场竞争力。尤其在数据中心高速互联领域，公司协同头部芯片厂商前瞻性为全球主流数据中心及云服务厂商共同制定 800G、1.6T 等下一代高速连接标准，部分细分领域产品如外部高速铜缆、线缆及连接器组件、背板连接器及背板线缆、HSIO、SSIO 等更是以领先的技术、成本优势和优异的产品表现赢得了客户的认可。在此基础上，公司以此为切入口，全面拉动光连接、散热、电源模块等产品与头部客户展开进一步深度合作，打开长线业务空间；\n3、汽车业务方面，公司依托强大的智能制造平台，快速实现向汽车产业相关产品的跨界赋能，并基于与海内外头部主机厂和汽车品牌客户的深度战略合作伙伴关系，为汽车业务相关产品打开了广阔的市场空间，近期收购莱尼线束业务叠加后续布局，为在未来三个五年实现成为全球汽车零部件 Tier1 领导厂商的中长期目标奠定坚实的基础。\n4、公司业绩基本面兑现能力强，未来数年业绩快速复合增长确定，当前低估价值凸显，长线空间可观。\n❑风险提示：全球政治经济环境波动，新品新业务布局不及预期，竞争加剧。",
+        "base_price": 57.48,
+        "latest_price": 57.48,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "电子",
+        "code": "002484.SZ",
+        "name": "江海股份",
+        "count": 1,
+        "analysts": "国君-陈豪杰",
+        "change": "0",
+        "reason": "AI电源逐级升级，电容业务进入爆发周期",
+        "base_price": 58.71,
+        "latest_price": 58.71,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "化工",
+        "code": "002488.SZ",
+        "name": "金固股份",
+        "count": 1,
+        "analysts": "浙商-杨占魁",
+        "change": "新增",
+        "reason": "阿凡达低碳车轮放量带动业绩高增，新能源汽车头部客户定点持续突破，同时阿凡达铌微合金材料切入机器人结构件领域，公司有望从传统汽车零部件供应商向新材料解决方案提供商转型。\n一、超预期逻辑市场担忧：传统车轮业务成长空间有限，原材料价格波动及新业务落地节奏可能影响公司盈利释放。\n我们认为：1、车轮端：阿凡达低碳车轮凭借高性能、低成本优势，已实现国内外头部主机厂批量供货，高毛利产品占比进一步提升，有望推动公司盈利能力持续增强。\n2、材料端：公司阿凡达铌微合金材料已在机器人结构件领域实现量产，并拓展镁合金、改性塑料等多元材料方案，未来在机器人、无人机等新兴领域应用空间广阔。\n二、检验与催化\n阿凡达车轮订单放量；新能源车企定点持续增加；机器人结构件量产进展；阿凡达材料在无人机等新兴领域应用落地；盈利能力持续改善。",
+        "base_price": 9.1,
+        "latest_price": 9.1,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "金属",
+        "code": "002532.SZ",
+        "name": "天山铝业",
+        "count": 1,
+        "analysts": "国信-刘孟峦",
+        "change": "新增",
+        "reason": "看好电解铝行业，海外电解铝未来供给增量远低于预期；公司为国内优质电解铝企业，成本低；高股息较高。",
+        "base_price": 13.2,
+        "latest_price": 13.2,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "建筑",
+        "code": "002541.SZ",
+        "name": "鸿路钢构",
+        "count": 1,
+        "analysts": "中泰-王雯",
+        "change": "新增",
+        "reason": "Q2吨净利同比提升，下游景气度改善带动产品提价传导至吨净利的提升幅度明显超出预期；目前产业订单充足，展望下半年，造船、高端装备、芯片等高景气下游的订单改善仍有望驱动公司全年业绩超预期兑现。",
+        "base_price": 20.41,
+        "latest_price": 20.41,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "电子",
+        "code": "002859.SZ",
+        "name": "洁美科技",
+        "count": 1,
+        "analysts": "东方-张书铭",
+        "change": "0",
+        "reason": "看好功率半导体涨价",
+        "base_price": 60.3,
+        "latest_price": 60.3,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "基础化工",
+        "code": "002886.SZ",
+        "name": "沃特股份",
+        "count": 1,
+        "analysts": "银河-王鹏",
+        "change": "新增",
+        "reason": "聚焦特种高分子材料，PTFE制品加速切入半导体产业链",
+        "base_price": 17.42,
+        "latest_price": 17.42,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "基础化工",
+        "code": "002895.SZ",
+        "name": "川恒股份",
+        "count": 1,
+        "analysts": "光大-赵乃迪",
+        "change": "新增",
+        "reason": "磷矿景气维持高位带来资源端利润保障，鸡公岭、老虎洞等在建矿山推进，磷矿石产能中期扩张规模可观并具有较强成本优势。此外，广西基地持续爬坡以及新能源项目盈利改善，将为公司带来额外利润增量",
+        "base_price": 34.57,
+        "latest_price": 34.57,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "非银金融",
+        "code": "00388.HK",
+        "name": "港交所（H）",
+        "count": 1,
+        "analysts": "华泰-李健",
+        "change": "新增",
+        "reason": "海外市场波动提升港股的相对配置吸引力。 7月以来海外AI硬件交易明显降温，前期部分投资者“做多日韩、做空港股”的交易可能有所松动。7月以来，恒指涨幅接近10%，同期韩国综合指数和费城半导体指数分别下跌23%和18%。短期表现分化反映高涨幅、高拥挤度资产的收益风险比正在被重新评估。港股同时覆盖平台、消费、创新药和高股息等成长与防御型资产，有望承接跨市场再配置需求。\n\n优质上市公司持续扩充港股资产供给，并逐步转化为成交贡献。 自从24年4月内地监管提出支持内地龙头企业赴港IPO以来，上市的新股合计约占25年后全市场日均成交额（ADT）的15.3%；截至2026年6月底，仍有534宗上市申请处于处理中。随着更多龙头企业及科技公司登陆港股，投资者可以在港股内部完成更多产业主题轮动，新股上市后的持续成交有望拓宽港交所的长期收入基础。\n\n港股成交额创下季度历史新高，多项因素仍有望稳定交易活跃度。 26年以来港股ADT接近2,900亿港币，高于25年的2,500亿和24年的1,300亿；其中2Q26 ADT达到2,895亿港币，创季度历史新高。这一轮牛市是驱动ADT增长的重要因素。除此以外，在资产端，优质企业和特色产品同样是重要的微观基础；在资金端，南下参与度今年确有下降，但已经逐渐企稳，另外近期美国宣布撤销对港股中资企业的投资限制，可能会减弱外资流出的压力；宏观层面，人民币升值通常能支撑港股的成交，另外若美联储加息预期降温，利率的压制也有望缓解。\n\n高成交推动盈利预测上调，当前估值仍处于历史偏低位置。 我们预计港交所2Q26总收入同比增长13%至81.79亿港币，归母净利润同比增长15%至51.3亿港币，其中交易类收入预计同比增长35%至53.25亿港币，是利润增长的主要来源。公司当前股价对应26.6倍PE（TTM），低于长期估值通道底部，建议积极关注配置价值。",
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": "20260801"
+      },
+      {
+        "industry": "基础化工",
+        "code": "0189.HK",
+        "name": "东岳集团",
+        "count": 1,
+        "analysts": "中信-中信证券-朱立伟、王喆(化工)",
+        "change": "新增",
+        "reason": "制冷剂配额约束强化龙头盈利，同时有机硅供需修复形成第二增长点。附属东岳硅材预计2026年上半年归母净利润4.24—4.44亿元、同比增长约905%—952%，受益DMC价格回升与工业硅成本下降；集团氟硅一体化有望带来利润弹性。风险在于产品价格回落及行业复产加剧竞争。",
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": "20260801"
+      },
+      {
+        "industry": "计算机",
+        "code": "02513.HK",
+        "name": "智谱",
+        "count": 1,
+        "analysts": "华创-计算机-吴鸣远",
+        "change": "新增",
+        "reason": "智谱凭借清华技术底座与领先的MaaS生态，在AI通用化及智能体浪潮中卡位核心赛道，有望持续受益于商业化加速与Token消耗爆发",
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": "20260801"
+      },
+      {
+        "industry": "农业",
+        "code": "09858.HK",
+        "name": "优然牧业",
+        "count": 1,
+        "analysts": "浙商-钟凯锋",
+        "change": "新增",
+        "reason": "双周期共振确认，龙头反转正当时。\n\n一、驱动是什么？\n肉牛周期：加速兑现。 育肥公牛出栏价27.2元/公斤，行业判断2026下半年“缺牛+需求旺季”双重支撑下，肉牛大周期加速兑现。优然手握近62万头奶牛资源，淘牛业务弹性极大。\n原奶周期：拐点已至。 7月3日主产区原奶均价3.03元/公斤，环比持平，价格已连续企稳。山东散奶价格从三四月份的2.3-2.5元/公斤涨至2.8-3.1元/公斤。行业共识：2026年是触底拐点之年，下半年奶价有望开启温和上涨。\n公司自身：经营底子够硬。 2025年营收206.5亿，现金EBITDA 55.9亿，自由现金流19亿。公斤奶饲料成本降至1.88元，毛利率逆势提升至29.8%。大股东伊利持股已提升至36.07%。\n结论很清晰：双周期共振已确认，龙头反转刚开始。当前价位，值得重配。",
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": "20260801"
+      },
+      {
+        "industry": "计算机",
+        "code": "0992.HK",
+        "name": "联想集团",
+        "count": 1,
+        "analysts": "中信-中信证券-朱立伟、杨宗轩(前瞻)",
+        "change": "新增",
+        "reason": "PC龙头份额优势叠加AI服务器与服务转型。2025/26财年收入831亿美元、同比增长20%，调整后净利润20亿美元、同比增长42%；AI相关收入翻倍至集团收入的33%，ISG实现全年盈利，AI服务器管线达210亿美元。风险为存储及零部件成本、关税与服务器交付竞争。",
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": "20260801"
+      },
+      {
+        "industry": "房地产",
+        "code": "1908.HK",
+        "name": "建发国际集团",
+        "count": 1,
+        "analysts": "申万-袁豪",
+        "change": "0",
+        "reason": "土储结构较好，聚焦核心城市，后续销售与盈利弹性充足；财务保持稳健，三条红线维持绿档。",
+        "base_price": null,
+        "latest_price": null,
+        "currency": "HKD",
+        "base_date": "20260801",
+        "change_pct": null
+      },
+      {
+        "industry": "有色金属",
+        "code": "2099.HK",
+        "name": "中国黄金国际",
+        "count": 1,
+        "analysts": "中信-中信证券-朱立伟、拜俊飞（有色）",
+        "change": "新增",
+        "reason": "金铜量价齐升与甲玛矿修复驱动业绩高弹性；甲玛矿扩产与资源储量提升支撑中期成长。风险为金铜价格波动、矿山安全及扩产节奏。",
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": "20260801"
+      },
+      {
+        "industry": "军工",
+        "code": "300136.SZ",
+        "name": "信维通信",
+        "count": 1,
+        "analysts": "申万-穆少阳",
+        "change": "0",
+        "reason": "公司为星链地面终端射频天线核心供应商，ASP150-200元，短期催化为5月份国内商业航天β及SpaceXIPO，长期核心受益于星链全球用户快速增长，目标市值1200-1500e。",
+        "base_price": 57.48,
+        "latest_price": 57.48,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "机械",
+        "code": "300217.SZ",
+        "name": "东方电热",
+        "count": 1,
+        "analysts": "中泰-谢校辉",
+        "change": "新增",
+        "reason": "主业业绩拐点确立，机器人液冷散热模组放量可期",
+        "base_price": 4.51,
+        "latest_price": 4.51,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "传媒",
+        "code": "300418.SZ",
+        "name": "昆仑万维",
+        "count": 1,
+        "analysts": "浙商-冯翠婷",
+        "change": "新增",
+        "reason": "A股稀缺AI应用出海龙头，短剧与AI短剧平台商业化加速，SkyReels视频模型和Mureka音乐模型全球领先，Opera流量入口稳健增长，公司有望从AI投入期逐步进入商业化兑现期。\n一、国产芯片业务（持有<49%艾捷科芯）\n融资与估值：刚完成新一轮融资，投后估值超40亿元，引入长鑫等产业股东，资本实力与产业链资源同步增强；昆仑万维对其持股价值约20亿元，前期投入成本低，投资收益性价比极高。\n研发进度：7nm芯片已送交三星流片，Q3将回片，性能对标英伟达H200；后续商业化落地已绑定字节等大厂，若流片成功+量产爬坡顺利，将带来极大业绩弹性。\n业绩影响：艾捷科芯叠加估值提升，预计对昆仑万维Q2业绩产生显著正向催化。\n长期预期：依托产业资本背书+技术落地预期，艾捷科芯具备独立上市潜力。\n二、AI模型及应用业务\n商业化成果：AI Native业务Q2（截至6月）年化经常性收入（ARR）突破8亿美元，远超1月预期，其中AI短剧平台贡献约7亿美元，月流水逼近6000万美元，是核心增长引擎；其余AI工具月流水约800-900万美元。\n运营效率：AI原生化转型成效显著，80%以上新内容由AI生成，内容供给效率大幅提升，多模态大模型+应用的闭环已跑通，自有模型全球排名靠前，海外业务对标字节。\n盈利展望：当前因高投入导致毛利率下行、费用率高位，但随着AI降低内容成本，预计下半年将实现季度性扭亏为盈；后续漫剧等新业务有望延续高增长态势。\n三、后续跟踪重点（核心股价催化因素）\n需持续关注艾捷科芯Q3流片结果、下半年商业化落地进度。",
+        "base_price": 43.2,
+        "latest_price": 43.2,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "电力设备及新能源",
+        "code": "300593.SZ",
+        "name": "新雷能",
+        "count": 1,
+        "analysts": "光大-尹会伟",
+        "change": "0",
+        "reason": "公司在数据中心领域已形成覆盖一次、二次及三次变换的全系列电源解决方案供给能力。二次电源已达到国际先进水平，公司目前是ADI合作供应商，相关产品已进入批量供货阶段。前瞻性布局三次电源，已突破POWER BLOCK和VPD电源核心技术，主要技术指标对标国际先进水平，是国内少数具备该方向核心技术能力的企业",
+        "base_price": 23.88,
+        "latest_price": 23.88,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "通信",
+        "code": "300628.SZ",
+        "name": "亿联网络",
+        "count": 1,
+        "analysts": "申万-郝知雨",
+        "change": "新增",
+        "reason": "统一通信领域优质标的，海外布局完成后迎来底部反转，会议产品与云办公终端第二曲线具备成长空间，高分红特征突出，当前估值处于历史偏低位置，配置性价比尚可。",
+        "base_price": 38.9,
+        "latest_price": 38.9,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "医药生物",
+        "code": "301188.SZ",
+        "name": "力诺药包",
+        "count": 1,
+        "analysts": "东方-张书铭",
+        "change": "新增",
+        "reason": "玻璃基板",
+        "base_price": 33.19,
+        "latest_price": 33.19,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "机械",
+        "code": "301413.SZ",
+        "name": "安培龙",
+        "count": 1,
+        "analysts": "光大-黄帅斌",
+        "change": "新增",
+        "reason": "公司温度和压力传感器发展稳健，积极研发六维力传感器技术，有望切入头部机器人公司六维力传感器供应链，业绩增量可期",
+        "base_price": 56.55,
+        "latest_price": 56.55,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "互联网",
+        "code": "3690.HK",
+        "name": "美团-W",
+        "count": 1,
+        "analysts": "华泰-夏路路",
+        "change": "0",
+        "reason": "美团外卖竞争拐点确立，四季度UE亏损大幅收窄，Q1有望显著改善；到店短期承压但中长期利润率可回30%以上；新业务减亏超预期，沙特部分城市已盈利，海外模型跑通。看好估值修复，目标120港元。",
+        "base_price": null,
+        "latest_price": null,
+        "currency": "HKD",
+        "base_date": "20260801",
+        "change_pct": null
+      },
+      {
+        "industry": "互联网&海外科技",
+        "code": "3690.HK",
+        "name": "美团",
+        "count": 1,
+        "analysts": "国信-张伦可",
+        "change": "新增",
+        "reason": "目前行业监管呼吁回归理性竞争，叠加竞对在业绩会表态有信心在2027财年结束前实现单月UE转正，外卖行业补贴渐进退坡下盈利有望回归上行通道。美团在高价值用户以及经营效率仍具备领先优势，2026年盈利有望筑底回暖。",
+        "base_price": null,
+        "latest_price": null,
+        "currency": "HKD",
+        "base_date": "20260801",
+        "change_pct": null
+      },
+      {
+        "industry": "机械设备",
+        "code": "600031.SH",
+        "name": "徐工机械",
+        "count": 1,
+        "analysts": "银河-鲁佩",
+        "change": "新增",
+        "reason": "挖机销量超预期，估值较低",
+        "base_price": 20.55,
+        "latest_price": 20.55,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "汽车",
+        "code": "600166.SH",
+        "name": "福田汽车",
+        "count": 1,
+        "analysts": "中泰-白臻哲",
+        "change": "新增",
+        "reason": "商用车出口龙头，受益于商用车出口高景气",
+        "base_price": 3.15,
+        "latest_price": 3.15,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "建筑材料",
+        "code": "600176.SH",
+        "name": "中国巨石",
+        "count": 1,
+        "analysts": "招商-李华丰",
+        "change": "-5",
+        "reason": "电子布成为AIPCB的最紧缺“物料”，公司充分受益\n1、AI电子布是PCB产业链上最紧缺的“物料”。VR200的BOM清单显示PCB和ABF载板边际增幅显著，AI电子布因前端电子纱扩产周期较长以及核心进口设备织布机紧缺使得供需缺口将进一步扩大，预计产业有望把AI电子布当战略物料积极锁定产能。\n2、公司是行业龙头，一方面充分受益普通电子布的价格上涨，另一方面公司织布机在手数量充足且积极发展AI电子布有望成为新一轮需求扩容的最大受益者。\n❑风险提示：海外AI投资不及预期，国产织布机技术跃迁突破。",
+        "base_price": 37.84,
+        "latest_price": 37.84,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "电子",
+        "code": "600183.SH",
+        "name": "生益科技",
+        "count": 1,
+        "analysts": "招商-鄢凡、程鑫",
+        "change": "0",
+        "reason": "业绩大超市场预期，CCL涨价+AI放量双轮驱动利润翻倍\nCCL业务受益涨价周期叠加AI产品结构升级，PCB业务维持高景气。 分业务看：（1）CCL业务：26Q1公司传统CCL持续严格推进涨价策略，在上游铜箔、玻璃布等原材料成本高企背景下，凭借龙头议价能力实现成本顺畅传导并获取超额涨价收益。（2）PCB业务：子公司生益电子26Q1营收24.11亿元（同比+52.6%），归母净利4.45亿元（同比+122.2%），毛利率35.2%（同比+5.4pcts），AI算力PCB需求强劲，AWS T3客户Q1重新开启拉货，全年A客户营收有望超50亿元。\nCCL涨价超周期演绎，52亿东莞项目打开远期成长空间。 4月以来覆铜板行业涨价节奏超预期，建滔月内两次涨价合计20%，台光M6+产品涨价15%。上游铜箔加工费上涨、玻璃布供给偏紧（薄型布被AI专用低Dk布需求挤占），成本支撑叠加供需偏紧推动CCL涨价周期的持续时间和幅度均可能超出前期预期。公司兼具CCL涨价周期弹性与AI新品放量的双重成长逻辑，作为全球CCL龙头及国产AI材料替代核心标的，中长期增长确定性强。\n❑风险提示：算力需求增长不及预期；客户业务拓展不及预期；原材料成本传导不顺。",
+        "base_price": 105.64,
+        "latest_price": 105.64,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "医药",
+        "code": "600276.SH",
+        "name": "恒瑞医药",
+        "count": 1,
+        "analysts": "国君-余文心",
+        "change": "0",
+        "reason": "和BMS达成协议，研发实力再次获得认证，拓展公司海外合作模式",
+        "base_price": 54.08,
+        "latest_price": 54.08,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "通信",
+        "code": "600487.SH",
+        "name": "亨通光电",
+        "count": 1,
+        "analysts": "华泰-王兴",
+        "change": "新增",
+        "reason": "市场高估供给低估了需求，股价超跌。",
+        "base_price": 47.61,
+        "latest_price": 47.61,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "有色金属",
+        "code": "600516.SH",
+        "name": "方大炭素",
+        "count": 1,
+        "analysts": "华泰-李斌",
+        "change": "0",
+        "reason": "若双碳能够催化钢铁行业供给侧优化，钢价上行300元。电炉炼钢石墨电极吨钢消耗价值7-30元，所以我们认为若每涨100元其中让利给石墨，则300元的涨价可能会使石墨价格翻倍修复到2022年水平3-4万元销售单价，则吨净利润或修复到1.5万元/吨。20万吨的产量则形成30e的净利润预期。光伏未来若稳态在7-8e营收，则或形成1-2e净利润。26-30年核电石墨公司独家，预期累计净利润约18e，年均3.6e。综上所述，成功双碳执行的背景下，公司年化利润或达到约35e。考虑公司历史业绩释放年分红比例极高，我们预期分红有望超50%。此外，公司积极布局了核电、与宁德合作了固态电池电解质业务和半导体用碳素国产替代，我们认为PE 15X合理，对应市值525e。",
+        "base_price": 5.18,
+        "latest_price": 5.18,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "国防军工",
+        "code": "600562.SH",
+        "name": "国睿科技",
+        "count": 1,
+        "analysts": "华泰-鲍学博",
+        "change": "新增",
+        "reason": "军贸签单有望大幅增长。",
+        "base_price": 24.2,
+        "latest_price": 24.2,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "建材",
+        "code": "600801.SH",
+        "name": "华新建材",
+        "count": 1,
+        "analysts": "中泰-万静远",
+        "change": "新增",
+        "reason": "海外业务量价齐增，收并购加速。国内水泥盈利底部，骨料量增价稳。",
+        "base_price": 22.3,
+        "latest_price": 22.3,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "公用环保",
+        "code": "600900.SH",
+        "name": "长江电力",
+        "count": 1,
+        "analysts": "国信-黄秀杰",
+        "change": "新增",
+        "reason": "Q2三峡来水偏丰带动业绩稳增，股息率具备吸引力。",
+        "base_price": 29.09,
+        "latest_price": 29.09,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "银行",
+        "code": "600919.SH",
+        "name": "江苏银行",
+        "count": 1,
+        "analysts": "国君-马婷婷",
+        "change": "0",
+        "reason": "一季度业绩稳健增长，资产质量保持平稳，维持高分红比例",
+        "base_price": 11.83,
+        "latest_price": 11.83,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "通信",
+        "code": "600941.SH",
+        "name": "中国移动",
+        "count": 1,
+        "analysts": "银河-赵良毕",
+        "change": "新增",
+        "reason": "高股息+token运营，运营商第二成长曲线成长性加强",
+        "base_price": 97.41,
+        "latest_price": 97.41,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "有色金属",
+        "code": "600988.SH",
+        "name": "赤峰黄金",
+        "count": 1,
+        "analysts": "申万-郭中伟",
+        "change": "新增",
+        "reason": "黄金资源增储潜力较大，远期矿金产量有望实现增长，紫金矿业拟入主赋能公司降本与成长，现有产能下估值具备吸引力，黄金行业景气度提升下业绩弹性较好。",
+        "base_price": 39.56,
+        "latest_price": 39.56,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "银行",
+        "code": "601009.SH",
+        "name": "南京银行",
+        "count": 1,
+        "analysts": "华泰-沈娟",
+        "change": "新增",
+        "reason": "中报业绩持续，股息稳定，受益区域经济修复。",
+        "base_price": 11.63,
+        "latest_price": 11.63,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "有色金属",
+        "code": "601168.SH",
+        "name": "西部矿业",
+        "count": 1,
+        "analysts": "东方-张书铭",
+        "change": "0",
+        "reason": "看好铜beta",
+        "base_price": 38.44,
+        "latest_price": 38.44,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "非银行金融",
+        "code": "601198.SH",
+        "name": "东兴证券",
+        "count": 1,
+        "analysts": "中信-中信证券-朱立伟、陆昊（非银金融）",
+        "change": "新增",
+        "reason": "券商业绩修复与并购事件形成双催化。2026年上半年营收25.06亿元、归母净利润10.25亿元，分别同比增长11.4%、25.1%，经纪与自营贡献增长；中金换股吸收合并东兴、信达重组有望强化平台与协同估值。风险为审批进度、换股相对价格及市场交投回落。",
+        "base_price": 13.83,
+        "latest_price": 13.83,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "煤炭",
+        "code": "601225.SH",
+        "name": "陕西煤业",
+        "count": 1,
+        "analysts": "国君-黄涛",
+        "change": "新增",
+        "reason": "自产煤销量保持稳定，电力业务盈利稳健",
+        "base_price": 24.8,
+        "latest_price": 24.8,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "石油化工",
+        "code": "601233.SH",
+        "name": "桐昆股份",
+        "count": 1,
+        "analysts": "申万-邵靖宇",
+        "change": "-1",
+        "reason": "聚酯产业链供需改善，各环节盈利修复;行业联合减产保价，成本传导顺畅，公司充分受益行业景气上行。",
+        "base_price": 22.4,
+        "latest_price": 22.4,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "银行",
+        "code": "601398.SH",
+        "name": "工商银行",
+        "count": 1,
+        "analysts": "东方-张书铭",
+        "change": "新增",
+        "reason": "微观交易结构和风险偏好有利于银行股表现",
+        "base_price": 7.99,
+        "latest_price": 7.99,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "非银",
+        "code": "601601.SH",
+        "name": "中国太保",
+        "count": 1,
+        "analysts": "浙商-孙嘉赓",
+        "change": "新增",
+        "reason": "上海国资委背景的核心上市险企，寿险长航转型纵深推进，行业利差损风险持续缓释，叠加上海国资战略支持与Web3前瞻布局，有望实现业绩与估值共振修复。\n一、超预期逻辑\n市场担忧：长端利率下行可能压制险企投资收益，寿险转型持续性及Web3等新业务布局兑现仍需观察。\n我们认为：1、行业端：保险行业战略重要性持续提升，新单预定利率下调和分红险占比提升有望推动负债成本下降；若权益市场维持慢牛，险企资产端投资收益有望增厚，利差损风险持续缓释。\n2、公司端：太保寿险长航二期“北极星计划”持续推进，代理人队伍企稳，银保渠道NBV高增；同时公司具备上海国资战略支持，并前瞻布局Web3赛道，当前估值仍处历史较低区间，具备修复空间。\n\n二、检验与催化\nA股与港股市场持续走强；新旧预定利率产品切换；分红险销售旺盛；NBV增长持续兑现；Web3新产品落地；上海国资资源赋能；同业举牌及市场认可度提升。",
+        "base_price": 32.36,
+        "latest_price": 32.36,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "交通运输",
+        "code": "601872.SH",
+        "name": "招商轮船",
+        "count": 1,
+        "analysts": "申万-闫海",
+        "change": "新增",
+        "reason": "油运板块受益于红海扰动拉长运距，四季度旺季叠加海峡解封后需求释放，当前估值处于历史偏低位置，市场对需求与运价存在预期差，具备较好超额收益机会。",
+        "base_price": 16.79,
+        "latest_price": 16.79,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "食品饮料",
+        "code": "603288.SH",
+        "name": "海天味业",
+        "count": 1,
+        "analysts": "国君-訾猛",
+        "change": "新增",
+        "reason": "扩品类、扩渠道保障公司中长期超额收益",
+        "base_price": 38.44,
+        "latest_price": 38.44,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "机械",
+        "code": "603486.SH",
+        "name": "科沃斯",
+        "count": 1,
+        "analysts": "中信-中信证券-朱立伟、刘海博（机械）",
+        "change": "新增",
+        "reason": "清洁电器需求复苏、海外扩张与新品类共同驱动增长。2025年营收190.4亿元、归母净利润17.58亿元，分别同比增长15%、118%；2026年一季度收入49.02亿元、同比增长27%，海外占比提升和投放效率改善支撑利润率，割草及擦窗机器人拓展第二曲线。风险为价格竞争与新品投放不及预期。",
+        "base_price": 60.67,
+        "latest_price": 60.67,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "汽车",
+        "code": "603766.SH",
+        "name": "隆鑫通用",
+        "count": 1,
+        "analysts": "华泰-宋亭亭",
+        "change": "新增",
+        "reason": "6月无极销量新高，Q3出口将提速\n\n#6月无极销量新高\n\n6月无极销量2.87万辆，同比+15.3%，创历史新高；其中内销同比+38.5%，250cc+销量1万辆，同比+42%；出口同比-2.6%，但并非终端需求走弱，主要系国内旺季生产安排及海运发运节奏影响，其中250cc+出口恢复至同比+3.3%，积极变化已经显现。\n\n#Q3出口有望加速向上，中长期成长逻辑不变\n\nQ3出口增速拐点向上趋势明确，800/625正常发运叠加450X新品放量，中大排出口及盈利增长将提速。此外公司SR1、SR2 ADV等踏板车型在欧洲终端表现同样强势，规模效应下盈利能力不输大排车型。26年以来无极欧洲核心五国市占率已近5%，后续随着全排量产品铺开，加速拓海外份额的逻辑稳固，量利向上趋势不改。\n\n#投资建议\n\n我们预计公司26年净利22亿+，当前PE仅 13x出头，叠加5%的预期股息率及成长属性，安全边际和回报均强，持续推荐。",
+        "base_price": 14.71,
+        "latest_price": 14.71,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "轻工制造",
+        "code": "603816.SH",
+        "name": "顾家家居",
+        "count": 1,
+        "analysts": "申万-屠亦婷",
+        "change": "新增",
+        "reason": "软体家具龙头，alpha 优势明显，内需超跌品种。",
+        "base_price": 25.2,
+        "latest_price": 25.2,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "有色金属",
+        "code": "603993.SH",
+        "name": "洛阳钼业",
+        "count": 1,
+        "analysts": "中信-中信证券-朱立伟、涂耀廷(有色)",
+        "change": "0",
+        "reason": "铜钴主业量价齐升，黄金并表打开第二增长曲线。公司预计2026年上半年归母净利润155—165亿元、同比增长79%—90%，铜产量38.8万吨、同比增长9.7%，钼钨价格上行及巴西金矿并表增厚利润；资源禀赋与低成本支撑中期兑现。风险为金属价格、刚果（金）政策与项目整合。",
+        "base_price": 19.52,
+        "latest_price": 19.52,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "金属",
+        "code": "605376.SH",
+        "name": "博迁新材",
+        "count": 1,
+        "analysts": "浙商-沈涛、李超",
+        "change": "新增",
+        "reason": "一、核心逻辑\n全球优秀的纳米金属粉体平台型企业，受益于AI服务器、新能源车ADAS及人形机器人等领域需求的爆发式增长，公司MLCC级镍粉、光伏/电子级铜粉及电感级合金粉等产品将迎来量价齐升阶段。\n二、三星电机拟敲定新增AI服务器MLCC大单\n据韩国经济日报6月29日报道，三星电机正在与一家美国大型科技公司洽谈，已最终敲定一项价值约5000亿韩元的人工智能服务器用电子元件供应协议，该合同金额约占其电子元器件部门年收入的10%。三星电机占博迁新材营收比例约为40%-50%，有望充分受益于AI服务器用MLCC需求爆发。\n三、高容MLCC供应趋紧，三星电机大幅扩张海外产能\n三星电机菲律宾公司在巴蒂诺村卡兰巴国际园区投资507亿比索的扩建项目，这家工厂将生产超过1000亿颗MLCC，预计将于2027年第四季度开始商业运营。作为三星电机MLCC镍粉的核心供应商，博迁新材的高效扩产能力可全力保障三星电机的原料需求。\n四、高端粉体占比持续提高，产品迭代优势明显\n公司自25年8月以来金属粉体产能持续扩张，我们预计随着三星电机菲律宾工厂产能投产，公司高端镍粉依然存在较大成长空间，高端产品占比持续提高。近期港股IPO文件显示公司十五五期间将投资研发40-60nm粒径粉体，批量化生产60nm金属粉体，同时拓展纳米金属粉体浆料前驱体，产品迭代优势明显。",
+        "base_price": 136.27,
+        "latest_price": 136.27,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "食饮",
+        "code": "605499.SH",
+        "name": "东鹏饮料",
+        "count": 1,
+        "analysts": "中泰-何长天",
+        "change": "新增",
+        "reason": "机构持仓集中度低、业绩及基本面预期底部；看好在无糖茶等新赛道的突围机遇",
+        "base_price": 135.9,
+        "latest_price": 135.9,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "电子",
+        "code": "688012.SH",
+        "name": "中微公司",
+        "count": 1,
+        "analysts": "国君-罗通",
+        "change": "0",
+        "reason": "薄膜沉积设备快速增长，看好公司成为集成电路设备平台型公司",
+        "base_price": 344.0,
+        "latest_price": 344.0,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "电子",
+        "code": "688072.SH",
+        "name": "拓荆科技",
+        "count": 1,
+        "analysts": "招商-鄢凡",
+        "change": "0",
+        "reason": "平台型薄膜沉积设备龙头，存储扩产与三维集成共振向上。\n1、产业趋势：长江存储、长鑫存储扩产趋势明确，国内存储扩产和工艺升级将持续拉动沉积设备需求，PECVD、ALD及沟槽填充设备需求有望持续扩容；\n2、沉积业务：PECVD累计出货反应腔持续提升，新型高产能平台适配先进制程需求；ALD多款PE-ALD设备量产规模提升，Thermal-ALD TiN产品完成客户验证，沟槽填充设备在稳定性和流片量上持续验证。\n3、三维集成：HBM、Chiplet和三维堆叠推动先进封装升级，公司围绕晶圆键合等环节延伸，混合键合设备已获得重复订单并实现量产，第二成长曲线逐步清晰。\n4、订单及交付：公司参股辽宁聚芯强化核心零部件配套，沈阳产业化基地聚焦高端薄膜沉积和三维集成设备扩产，有望匹配下游旺盛需求及在手订单交付。\n综上，我们继续看好拓荆科技作为国内薄膜沉积设备龙头，受益存储扩产、先进制程升级与国产替代共振，PECVD基本盘稳固，ALD及沟槽填充设备加速突破，混合键合打开三维集成新增量，公司中长期成长空间明确。\n❑风险提示：晶圆厂扩产不及预期，订单不及预期，新品研发不及预期风险。",
+        "base_price": 664.97,
+        "latest_price": 664.97,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "电子",
+        "code": "688141.SH",
+        "name": "杰华特",
+        "count": 1,
+        "analysts": "东吴-东吴-陈海进",
+        "change": "0",
+        "reason": "",
+        "base_price": 114.11,
+        "latest_price": 114.11,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "电子",
+        "code": "688146.SH",
+        "name": "中船特气",
+        "count": 1,
+        "analysts": "东方-张书铭",
+        "change": "新增",
+        "reason": "半导体材料",
+        "base_price": 266.0,
+        "latest_price": 266.0,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "机械",
+        "code": "688188.SH",
+        "name": "柏楚电子",
+        "count": 1,
+        "analysts": "国信-吴双",
+        "change": "新增",
+        "reason": "国内激光切割控制系统龙头，高功率市占率第一。近年来公司持续兑现业绩，平面解决方案、管材解决方案、三维解决方案收入均稳步提升，新业务智能焊接控制系统放量在即，将打开第二成长曲线。",
+        "base_price": 104.71,
+        "latest_price": 104.71,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "电子",
+        "code": "688220.SH",
+        "name": "翱捷科技",
+        "count": 1,
+        "analysts": "申万-杨海晏",
+        "change": "0",
+        "reason": "以国产定制ASIC芯片为核心高弹性业务；随着手机SoC及ASIC产品的商业化推进，业务规模有望逐步扩大。",
+        "base_price": 93.69,
+        "latest_price": 93.69,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "化学制药/生物制品",
+        "code": "688235.SH",
+        "name": "百济神州",
+        "count": 1,
+        "analysts": "东吴-东吴-朱国广",
+        "change": "新增",
+        "reason": "公司全球商业化顺利推进，泽布替尼稳坐全球BTK抑制剂销量首位，2026年总收入指引上调至63-65亿美元、Non-GAAP经营利润上调至14.5-15.5亿美元，盈利兑现在即；在研管线丰富，血液瘤已形成“泽布替尼+索托克拉+BGB-16673”差异化组合，实体瘤管线2026年进入数据密集释放期。CDK4i、B7-H4 ADC、GPC3×4-1BB双抗及泽尼达妥单抗联用方案有望贡献新增量。公司全球化临床与商业化能力强，随管线和上市产品推进有望进一步提高市值。",
+        "base_price": 257.05,
+        "latest_price": 257.05,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "机械设备",
+        "code": "688630.SH",
+        "name": "芯碁微装",
+        "count": 1,
+        "analysts": "东吴-东吴-陈海进",
+        "change": "0",
+        "reason": "",
+        "base_price": 325.23,
+        "latest_price": 325.23,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "电子",
+        "code": "688825.SH",
+        "name": "长鑫科技",
+        "count": 1,
+        "analysts": "东方-张书铭",
+        "change": "新增",
+        "reason": "存储",
+        "base_price": 53.97,
+        "latest_price": 53.97,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "通信",
+        "code": "920045.BJ",
+        "name": "蘅东光",
+        "count": 1,
+        "analysts": "招商-罗嘉成",
+        "change": "0",
+        "reason": "无源光器件小巨人，CPO卡位关键海外客户，核心产品进展顺利。\n1）技术覆盖芯片耦合、光纤阵列、柔性互连到连接器集成的各环节，是少数具备CPO配套产品开发与量产能力的供应商，卡位AFL、Coherent等海外光通信龙头。2）持续完善1.6T光模块产品类型布局，积极推动ELSFP保偏无源内连光器件、CPO无源内连光器件从小批量转向规模量产，有望受益于CPO产业化加速。\n❑ 风险提示：国际贸易摩擦风险、汇率波动风险、客户集中度风险、市场竞争加剧风险、技术升级风险、子公司管理风险、估值波动风险。",
+        "base_price": 226.9,
+        "latest_price": 226.9,
+        "currency": "CNY",
+        "base_date": "20260801",
+        "change_pct": 0.0
+      },
+      {
+        "industry": "商贸零售",
+        "code": "9988.HK",
+        "name": "阿里巴巴-W",
+        "count": 1,
+        "analysts": "中信-中信证券-朱立伟、张苡铭(互联网)",
+        "change": "新增",
+        "reason": "核心电商稳健，云与AI加速成为主要估值增量。2026财年第四季度云收入同比增长38%、外部客户增长40%，AI相关产品连续11个季度三位数增长，闪购收入增长57%且单位经济改善；但AI、云和即时零售投入使调整后EBITA承压。看点在增长兑现与投入效率，风险为竞争和自由现金流持续承压。",
+        "base_price": null,
+        "latest_price": null,
+        "change_pct": null,
+        "currency": null,
+        "base_date": "20260801"
       }
     ]
   },
   "prices_meta": {
-    "generated_at": "2026-08-03 09:12:46",
-    "latest_date": "20260803"
+    "generated_at": "2026-08-03 13:30:00",
+    "latest_date": "20260801"
   }
 };
